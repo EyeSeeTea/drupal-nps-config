@@ -1,0 +1,540 @@
+
+5.1.1     MT-45
+Substance identification
+Chemically, MT-45 is 1-cyclohexyl-4-(1,2-diphenylethyl)piperazine. MT-45 has
+two enantiomers and is commonly available as the racemic mixture.
+
+Previous review
+MT-45 has not been previously reviewed by the Committee. A critical review
+was proposed based on information brought to WHO’s attention that MT-45 is
+clandestinely manufactured, poses a risk to public health and society, and has no
+recognized therapeutic use by any Party.
+
+Similarity to known substances and effects on the central nervous system
+Structurally, MT-45 is somewhat similar to lefetamine (SPA; (R)-N,N-dimethyl-
+1,2-diphenylethylamine), a stimulant with analgesic effects, that is controlled as
+a Schedule IV drug under the UN 1971 Convention on Psychotropic Substances,
+but conversion into SPA is considered difficult.
+         MT-45 (the racemate) binds to the µ-, δ-, and κ-opioid receptors
+and has many of the effects of a classical opioid such as morphine. It inhibits
+electrically induced contractions of the guinea-pig ileum, it has antinociceptive
+effects in thermal, mechanical, electrical and chemical pain models. It reduces
+gastrointestinal transit time, depresses respiration, produces Straub tail in mice
+and induces hyperglycaemia. The isomers show subtle differences. The S(+)-
+isomer produces most of the morphine-like effects whereas the R(−)-isomer
+has been reported not to depress respiration, produce Straub tail, or to have
+hyperglycaemic effects, and it has a 1000-fold higher affinity for both the σ1 and
+σ2 receptors than for the opioid receptors.
+
+Dependence potential
+Regarding MT-45’s ability to induce physical dependence, the mixed opioid
+agonist-antagonist, nalorphine, is able to precipitate opioid-like withdrawal
+jumping in MT-45-treated mice, suggestive of physical dependence. MT-45 is
+also able to attenuate signs of morphine withdrawal in mice thus demonstrating
+cross-dependency with morphine. Controlled studies examining the potential
+physical dependence effects of MT-45 in human subjects have not been reported;
+however, user websites contain reports of withdrawal-like symptoms following
+use of MT-45.
+
+Actual abuse and/or evidence of likelihood of abuse
+MT-45 is being abused for non-medical reasons in several countries, most often
+apparently for its opioid-like effects. Recognizing the abuse of this drug and its
+associated toxicity, several European countries have brought MT-45 under some
+level of regulatory control. Additionally, the Synthetic Drug Control Act of 2015
+is currently circulating the United States legislature, and that is also proposing
+to place MT-45 in the most restrictive schedule under the United States system.
+Scholarly reports documenting the prevalence and incidence of abuse of MT-45
+are not available and neither are any primary preclinical studies pertinent to the
+prediction of the likelihood of abuse of MT-45 other than to physical dependence.
+Fatal and non-fatal intoxications involving MT-45 have been reported.
+
+Therapeutic usefulness
+There are no known approved human therapeutic applications for MT-45.
+
+Recommendation
+MT-45 is a compound with morphine-like effects. The Committee considered
+that the degree of risk to public health and society associated with the abuse
+liability and accompanying evidence warranted its placement under international
+control. Therapeutic use in humans has not been recorded. The Committee
+recommended that MT-45 be placed in Schedule I of the 1961 Single Convention,
+as amended by the 1972 Protocol.
+
+5.1.2     Acetylfentanyl
+Substance identification
+Chemically, acetylfentanyl is N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]
+acetamide. It is in the phenylpiperidine class of synthetic opioids that includes
+fentanyl, a Schedule I drug under the UN 1961 Single Convention on Narcotic
+Drugs. Acetylfentanyl has also been referred to as “desmethyl fentanyl”.
+
+Previous review
+Acetylfentanyl has not been previously reviewed by the Committee. A critical
+review was proposed based on information brought to WHO’s attention that
+acetylfentanyl is clandestinely manufactured, poses a risk to public health and
+society, and has no recognized therapeutic use by any Party.
+
+Similarity to known substances and effects on the central nervous system
+Acetylfentanyl displaces 3H-etorphine binding in rat cerebral membrane and can
+completely inhibit the mouse vas deferens stimulated twitch, which is reduced
+to 29.3 (±2.1)% levels by the µ-opioid receptor antagonist, beta-funaltrexamine,
+and reversed by an equimolar concentration of naltrexone. Overall, these data
+indicate that acetylfentanyl is a µ-opioid receptor agonist similar to morphine.
+Also similar to morphine-like µ-opioid receptor agonists, it has antinociceptive
+effects in several rodent models.
+
+Dependence potential
+Studies on physical dependence in animals have found that acetylfentanyl can
+relieve signs of withdrawal in morphine-dependent rhesus monkeys and thus
+demonstrates cross-dependency to morphine. There have been no published
+reports involving human subjects and acetylfentanyl under controlled conditions
+on the primary physical dependence-inducing effects, or the cross-dependency
+effects of acetylfentanyl.
+
+Actual abuse and/or evidence of likelihood of abuse
+Published reports involving controlled studies with acetylfentanyl in
+directly relevant abuse-liability procedures such as self-administration, drug
+discrimination, intra-cranial self-stimulation, or conditioned place preference are
+not currently available. Acetylfentanyl is being used for non-medical purposes,
+although the incidence and prevalence of its abuse cannot be accurately estimated
+partly because it is not routinely tested for in forensic toxicology. It has been
+identified in confiscated material being trafficked illicitly in the United States,
+Europe and Japan where it has been found as a white or pale-beige powder, in
+tablets and in nasal sprays, and in one report on blotting paper. At least eight
+countries have brought acetylfentanyl under some level of control as an abused
+substance. Users have reported using acetylfentanyl via insufflation, smoking,
+and through the intravenous routes of administration. It is sold over the Internet
+where it is sometimes promoted as a “research chemical”, and its use is discussed
+on drug-user websites. Preclinical studies indicate that there is a narrow margin of
+safety for acetylfentanyl. More than 50 fatal intoxications involving acetylfentanyl
+have been reported from the United States, across Europe and from Japan.
+
+Therapeutic usefulness
+There are no known approved medical products containing acetylfentanyl, nor
+are there any known industrial uses for the drug.
+
+Recommendation
+Acetylfentanyl has effects similar to those of morphine and fentanyl that are
+included in Schedule I of the 1961 Single Convention on Narcotic Drugs. It has
+no recorded therapeutic use and its use has resulted in fatalities. Thus, because it
+meets the required condition of similarity, it is recommended that acetylfentanyl
+be placed in Schedule I of the Single Convention on Narcotic Drugs, 1961, as
+consistent with Article 3, paragraph 3 (iii) of that convention in that the substance
+is liable to similar abuse and productive of similar ill-effects to drugs in Schedule
+I. In addition, in accordance with Article 3, paragraph 5 of that convention,
+considering acetylfentanyl is particularly liable to abuse and to produce ill-effects,
+and its liability is not offset by substantial therapeutic advantages not possessed
+by substances other than drugs in Schedule IV, it is further recommended it be
+included in Schedule IV of the Single Convention on Narcotic Drugs, 1961.
+
+5.1.3     α-Pyrrolidinovalerophenone (α-PVP)
+Substance identification
+Chemically, α-PVP (α-pyrrolidinovalerophenone) is 1-phenyl-2-(pyrrolidin-
+1-yl)pentan-1-one. This synthetic cathinone is the desmethyl analogue
+of pyrovalerone that is listed in Schedule IV of the 1971 United Nations
+Convention on Psychotropic Substances. α-PVP has two enantiomers and
+is commonly available as the racemic mixture. α-PVP is closely related to
+3′,4′-methylenedioxypyrovalerone (MDPV) that has recently been placed in
+Schedule II of the UN Convention on Psychotropic Substances (1971).
+
+Previous review
+α-PVP has not been previously reviewed by the Committee. A direct critical
+review was proposed based on information brought to WHO’s attention that
+α-PVP is clandestinely manufactured, poses a risk to public health and society,
+and has no recognized therapeutic use by any Party.
+
+Similarity to known substances and effects on the central nervous system
+α-PVP is a potent blocker at the dopamine transporter (DAT) and a moderate
+blocker at the norepinephrine transporter (NET) with negligible activity at
+the serotonin transporter (SERT), similar to some other psychostimulants. In
+many preclinical procedures it demonstrates a psychostimulant-like profile in
+which it increases locomotion, produces stereotypies, fully substitutes for the
+discriminative stimulus effects of cocaine and methamphetamine, decreases
+intracranial self-stimulation thresholds, produces conditioned place preference
+and is self-administered.
+
+Dependence potential
+Research data using human subjects pertinent to α-PVP’s dependence potential
+have not been reported. In preclinical studies, behavioural effects induced by
+α-PVP are comparable to those produced by other psychomotor stimulants
+such as cocaine, methamphetamine and MDPV, which predict a stimulant-like
+dependence potential.
+
+Actual abuse and/or evidence of likelihood of abuse
+Several of the nonclinical effects of α-PVP predict a likelihood of abuse for
+α-PVP in that it decreases intracranial self-stimulation thresholds, produces
+conditioned place preference, and is self-administered. α-PVP has been sold as
+a “research chemical”, “bath salt”, “stain remover”, “plant food”, “plant fertilizer”,
+“insect repellent”, and “jewellery cleaner” and in the form of tablets, suppositories,
+ampoules, and in liquid formulations. The European Monitoring Centre for
+Drugs and Drug Addiction (EMCDDA) identified 65 Internet vendors of α-PVP
+including some presumably based in China, the European Union, India, the
+Russian Federation and the United States. α-PVP has been associated with both
+non-fatal and fatal intoxications. Frequently, when analysed, α-PVP is identified
+in biofluids, accompanied by other abused substances. In cases where α-PVP use
+has been established unambiguously, neurological, psychiatric and cardiovascular
+effects consistent with an extensive psychostimulant toxidrome have been
+observed, which include cardiotoxicity and violent and psychotic behaviour.
+More than 130 deaths have been associated with α-PVP, and hospitalizations
+were required among users with non-fatal acute intoxications.
+
+Therapeutic usefulness
+There are no known approved medical products containing α-PVP.
+
+Recommendation
+The Committee considered that the degree of risk to public health and society
+associated with the abuse of α-PVP is substantial. Therapeutic usefulness has
+not been recorded. Its pharmacological effects are similar to methamphetamine
+and MDPV, psychostimulants listed in Schedule II of the 1971 Convention. The
+Committee considered that the evidence of its abuse warranted its placement
+under international control. As per the Guidance on the WHO review of
+psychoactive substances for international control (4), higher regard was accorded
+to the substantial public health risk than to the lack of therapeutic usefulness.
+The Committee recommended that α-PVP be placed in Schedule II of the 1971
+Convention.
+
+5.1.4     4-Fluoroamphetamine (4-FA)
+Substance identification
+Chemically, 4-fluoroamphetamine (4-FA) is 1-(4-fluorophenyl)propan-2-amine.
+4-FA has two enantiomers and is commonly available as the racemic mixture.
+
+Previous review
+4-FA has not been previously reviewed by the Committee. A critical review
+was proposed based on information brought to WHO’s attention that 4-FA is
+clandestinely manufactured, poses a risk to public health and society, and has no
+recognized therapeutic use by any Party.
+
+Similarity to known substances and effects on the central nervous system
+4-FA is a ring-substituted analogue of amphetamine. Similar to amphetamine,
+4-FA functions as a substrate of monoamine transporters and a releasing agent
+of dopamine (DA), norepinephrine (NE) and 5-hydroxytryptamine (5-HT).
+Similarly to amphetamine, it increases locomotor activity in rodents and it
+displays amphetamine-like discriminative stimulus effects.
+
+Dependence potential
+There are no data from clinical studies in humans regarding the dependence
+potential of 4-FA.
+
+Actual abuse and/or evidence of likelihood of abuse
+In animal studies, 4-FA occasions the discriminative stimulus effects of
+amphetamine suggesting that it would be likely to produce amphetamine’s
+subjective effects. 4-FA is also self-administered by rhesus monkeys but with
+reportedly lower efficacy than d-amphetamine. There are no controlled human
+studies addressing the abuse potential of 4-FA. 4-FA has been found in seized
+products in Europe since 2007, in products sold as “ecstasy” tablets and as
+“amphetamine” powder, as well as as an adulterant in other illicit controlled
+substances. Although 4-FA has been detected in some fatal and non-fatal
+instances, other drugs were also present or else data to allow assessment were
+limited. Therefore evidence for the direct role of 4-FA is not compelling.
+
+Therapeutic usefulness
+4-FA has never been marketed as a medicinal product.
+
+Recommendation
+Owing to the current insufficiency of data regarding dependence, abuse and risks
+to public health (including risks to the individual), the Committee recommended
+that 4-FA not be placed under international control at this time, but be kept under
+surveillance.
+
+5.1.5     para-Methyl-4-methylaminorex (4,4′-DMAR)
+Substance identification
+Chemically, 4,4′-DMAR (para-methyl-4-methylaminorex) is 4-methyl-5-
+(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine. 4,4′-DMAR has four
+enantiomers and exists as racemic cis- or trans- forms. It is a synthetic substituted
+oxazoline derivative interpretable as an analogue of 4-methylaminorex (4-MAR)
+and aminorex, which are psychostimulants listed as Schedule I and Schedule
+IV substances, respectively, under the 1971 United Nations Convention on
+Psychotropic Substances.
+
+Previous review
+4,4′-DMAR has not been previously reviewed by WHO. A critical review was
+proposed based on information brought to WHO’s attention that 4,4′-DMAR is
+clandestinely manufactured, poses a risk to public health and society, and has no
+recognized therapeutic use by any Party.
+
+Similarity to known substances and effects on the central nervous system
+In in vitro studies, cis-4,4′-DMAR demonstrates comparable potency to
+d-amphetamine and aminorex (which are scheduled under the 1971 United
+Nations Convention on Psychotropic Substances) to induce release of DA and
+NE, but with greater potency than those compounds to release 5-HT via their
+respective transporters. trans-4,4′-DMAR is also a fully efficacious releasing
+agent at the DAT and NET, but it acts as an uptake blocker at SERT. Currently,
+there are no published reports of clinical studies involving 4,4′-DMAR.
+
+Dependence potential
+There are no published animal or human studies that have examined the
+dependence and abuse potential of 4,4′-DMAR.
+
+Actual abuse and/or evidence of likelihood of abuse
+A seizure of 4,4′-DMAR was first reported in December 2012 in the Netherlands.
+Subsequently, use and seizures were reported in a number of other European
+countries. 4,4′-DMAR has been encountered as a “research chemical”, in
+powdered and tablet form, and has been surreptitiously sold as “ecstasy” or other
+psychostimulant drugs. A total of 32 analytically confirmed deaths associated with
+4,4′-DMAR have been reported. 4,4′-DMAR was found to contribute to the cause
+of death in a number of cases, despite the detection of one or more psychoactive
+substances and/or their metabolites in postmortem biological samples.
+
+Therapeutic usefulness
+There are currently no therapeutic applications for 4,4′-DMAR. Patent
+applications have been filed for some of its isomers that describe their uses as
+ligands for the trace amine associated receptor 1 (TAAR1) related to a range
+of potential applications to central nervous system disorders, and the (4S, 5S)-
+trans-4,4′-DMAR enantiomer has been featured in several patents related to the
+preparation of a range of phospholipase A2 inhibitors. There are no marketing
+authorizations (existing, ongoing or suspended) for 4,4′-DMAR.
+
+Recommendation
+As per the Guidance on the WHO review of psychoactive substances for international
+control (4), higher regard was accorded to the substantial public health risk than
+to the lack of therapeutic usefulness. The Committee considered that the degree
+of risk to public health and society associated with the abuse of 4,4′-DMAR is
+substantial. The Committee recommended that 4,4′-DMAR be placed in Schedule
+II of the 1971 Convention.
+
+5.1.6     para-Methoxymethylamphetamine (PMMA)
+Substance identification
+Chemically, PMMA (para-methoxymethylamphetamine) is 1-(4-methoxyphenyl)
+-N-methylpropan-2-amine. PMMA has two enantiomers and is commonly
+available as the racemic mixture.
+
+Previous review
+PMMA has not been previously reviewed by the Committee. A critical review
+was proposed based on information brought to WHO’s attention that PMMA is
+clandestinely manufactured, poses a risk to public health and society, and has no
+recognized therapeutic use by any Party.
+
+Similarity to known substances and effects on the central nervous system
+PMMA is a substituted phenethylamine, being a methoxy-derivative of
+methamphetamine. Methamphetamine is a Schedule II substance under the
+1971 United Nations Convention on Psychotropic Substances. PMMA is also
+related to para-methoxyamphetamine (PMA) which is a Schedule I substance
+under the 1971 United Nations Convention on Psychotropic Substances. PMA
+is a metabolite of PMMA. At high doses, PMMA can produce sympathomimetic
+stimulation; its central stimulation is weak, and is weaker than PMA,
+amphetamine, methamphetamine and MDMA. Overall, the actions of PMMA
+observed in animals and human users strongly suggest a dominant role for
+serotonergic activity.
+
+Actual abuse and/or evidence of likelihood of abuse
+PMMA has been shown to lack amphetamine-like or hallucinogen-like stimulus
+properties in animals in drug discrimination studies, but produces MDMA-like
+discriminative stimulus effects. Indeed, its use and abuse (first noted in the late
+1980s) has been associated with the MDMA “ecstasy” culture for which it is often
+sold as an undisclosed substitute. Use and abuse of PMMA has subsequently been
+reported worldwide, but particularly in Europe as well as in Asia and Canada. Its
+use has been associated with deaths that have been increasing with time (1990s,
+1 death; 2000s, 40 deaths; and 2010s, 90 deaths). At high doses of PMMA, some
+of the effects of MDMA such as stimulation and euphoria are produced. Owing
+to the slow onset of effects, the user expecting MDMA-like effects may assume
+that the dose is too low and re-dose, which has been a defining feature of deaths
+involving PMMA.
+
+Therapeutic usefulness
+PMMA has no reported use in medical practice. There are no marketing
+authorizations (existing, ongoing or suspended) for PMMA.
+
+Recommendation
+The Committee considered that the effects of PMMA are similar to PMA, a
+drug listed in Schedule I of the Convention on Psychotropic Substances of 1971,
+and the degree of risk to public health and society associated with its abuse is
+especially serious. The Committee also noted it has no recorded therapeutic use.
+The Committee considered that the evidence of its abuse warranted its placement
+under international control and recommended that PMMA be placed in Schedule
+I of the 1971 Convention.
+
+5.1.7     Methoxetamine (MXE)
+Substance identification
+Chemically, methoxetamine (MXE) is 2-(ethylamino)-2-(3-methoxyphenyl)
+cyclohexanone. It is a synthetic drug and belongs to the arylcyclohexylamine
+class, like phencyclidine. Methoxetamine has two enantiomers and is commonly
+available as the racemic mixture.
+
+Previous review
+During its thirty-sixth meeting, the WHO ECDD discussed the critical review
+report on methoxetamine and concluded that owing to the insufficiency of data
+regarding dependence, abuse and risks to public health, methoxetamine should not
+be placed under international control at that time, but be kept under surveillance.
+In 2014, the European Union decided to bring methoxetamine under control
+after a risk assessment by the EMCDDA. Furthermore, new information on its
+abuse potential and more reports of fatal and non-fatal intoxications warranted a
+critical review at the thirty-seventh meeting of the ECDD.
+
+Similarity to known substances and effects on the central nervous system
+Methoxetamine binds to the N-methyl-D-aspartate (NMDA) glutamate receptor
+similar to ketamine and phencyclidine, but unlike ketamine it also binds
+to the SERT. It is possible that inhibition of SERT may contribute to both its
+psychopharmacological profile and its increased risk of toxicity compared to
+ketamine.
+        While methoxetamine is classified within the same pharmacological class
+as PCP and ketamine, its reported effects appear to differ from those of ketamine,
+suggesting that its actions in the brain may overlap with, but are not the same
+as, those of ketamine. In addition, the methoxetamine doses that produce the
+expected and toxic effects overlap, making this compound particularly dangerous.
+
+Dependence potential
+No dependence studies have been conducted with methoxetamine. Information
+from user websites is suggestive. One user reported craving, an escalation in
+dosage, and feelings of being “detached and sad” during abstinence, but apparently
+had no withdrawal signs indicative of physical dependence.
+
+Actual abuse and/or evidence of likelihood of abuse
+In nonclinical studies, methoxetamine produces conditioned place preference
+in rats comparable to the effect of ketamine, and is self-administered, but not
+robustly, suggesting some potential for abuse. Clinical abuse liability studies have
+not been conducted. Information from other official sources is not available.
+Some inferences can be made from information on user websites. Desired
+psychological and behavioural effects reported on such websites include:
+euphoria, empathy, pleasant intensification of sensory experiences, mild to
+strong sense of dissociation from the physical body, de-realization, improved
+social interaction, distorted sense of reality and vivid hallucinations. A total of
+120 non-fatal intoxications and 22 deaths associated with methoxetamine have
+been reported. Methoxetamine use has been reported from an increasing number
+of countries including: Austria, Belgium, Canada, Estonia, Finland, France, Italy,
+the Netherlands, Norway, Poland, Russian Federation, Singapore, Spain, Sweden,
+Ukraine, The United Kingdom of Great Britain and Northern Ireland and the
+United States.
+
+Therapeutic usefulness
+There is no evidence that methoxetamine is used therapeutically.
+
+Recommendation
+Methoxetamine has been shown to have effects similar to phencyclidine, a
+compound listed in Schedule II of the Convention on Psychotropic Substances of
+1971. The Committee considered that the degree of risk to public health and society
+associated with the abuse liability of methoxetamine is substantial. The Committee
+also noted it has no recorded therapeutic use. The Committee considered that the
+evidence of its abuse warranted its placement under international control. The
+Committee therefore recommended that methoxetamine be placed in Schedule
+II of the 1971 Convention.
+
+6.1.1     Etizolam (INN)
+Substance identification
+Chemically, etizolam is 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f]
+[1,2,4]triazolo[4,3-a][1,4]diazepine.
+
+Previous review
+The ECDD reviewed etizolam for the first time at its twenty-sixth meeting in
+1989. At that time, the Committee rated the abuse liability of etizolam as moderate
+and the therapeutic usefulness as moderate to high. In view of the lack of clear-
+cut abuse, and of public health and social problems associated with its use, the
+Committee was unable to come to a decision concerning the scheduling of
+etizolam and recommended that a decision be deferred until its twenty-seventh
+meeting.
+        At its twenty-seventh meeting in 1990, the Committee again rated the
+abuse liability of etizolam as low to moderate and the therapeutic usefulness as
+moderate to high. The Committee noted few public health and social problems
+associated with its use at that time and considered that the degree of seriousness
+of these problems was not great enough to warrant international control.
+Consequently, the Committee did not recommend scheduling of etizolam in
+1990.
+
+Similarity to known substances and effects on the central nervous system
+Etizolam has pharmacological effects similar to those of the model benzodiazepine,
+diazepam that is in Schedule IV of the Convention on Psychotropic Substances
+of 1971. It behaves as a full benzodiazepine receptor agonist and potentiates the
+gamma-amino butyric acid (GABA)-induced chloride current, induces muscle
+relaxation, has anti-convulsive effects, potentiates sleep time, causes a loss of the
+righting reflex, and occasions the pentobarbital discriminative stimulus, similar
+to diazepam. In contrast to diazepam, etizolam decreases the turnover and
+inhibits the uptake of NE in the mouse brain.
+
+Dependence potential
+Few human data are available regarding the dependence potential of etizolam. In
+case reports, one woman was able to be tapered off etizolam without experiencing
+withdrawal symptoms; in another case, a man was unable to stop etizolam use
+and during abstinence he experienced withdrawal symptoms characteristic of
+benzodiazepine withdrawal (palpitations, impaired sleep, agitation and tremors).
+
+Actual abuse and/or evidence of likelihood of abuse
+In nonclinical studies, etizolam completely occasions the pentobarbital
+discriminative stimulus in rhesus monkeys similar to diazepam. This suggests that
+etizolam would have subjective effects similar to those of the sedative hypnotics
+and thus is likely to share their abuse potential. In a Japanese psychiatric hospital
+survey on drug-related psychiatric disorders, the number of etizolam-abusing
+patients was 120, followed by flunitrazepam (101), triazolam (95) and zolpidem
+(53 patients) out of a total of 1579 cases, suggesting that the abuse potential
+of etizolam is relatively high. There appear to be no data directly pertinent to
+the nature and magnitude of the public health problems related to the misuse,
+abuse and dependence potential of etizolam nor any available data regarding its
+illicit manufacture and trafficking. However, several publications in the medical
+literature have commented that etizolam abuse has become a serious problem in
+Japan, and in September 2014, The Blue Ridge Poison Centre (VA, USA) called
+etizolam an emerging drug of concern and observed that there is an upward
+trend in calls to United States poison control centres and in Internet searches
+regarding this drug.
+
+Therapeutic usefulness
+Etizolam has marketing authorizations as a medicinal product in India, Italy and
+Japan. It is not listed in the WHO Model List of Essential Medicines. In contrast to
+diazepam and many other benzodiazepines, it decreases the turnover and inhibits
+the uptake of NE in mouse brain, which may provide anti-depressant activity in
+addition to conventional benzodiazepine-like anxiolytic activity, but apart from
+this potential property, it appears that it has no exceptional therapeutic advantages.
+
+Recommendation
+Based on the evidence available regarding dependence, abuse and risks to
+public health, the Committee recommended that a critical review of etizolam is
+warranted for a future meeting. The Committee noted deficiencies in information
+and suggested several potential sources that could be helpful in the preparation of
+the critical review, including those from traffic accident reports, seizure data, user
+forums, and pharmacovigilance data.
+
+6.1.2     Phenazepam
+Substance identification
+Chemically, phenazepam is 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-
+benzodiazepin-2-one.
+
+Previous review
+Phenazepam has not been previously reviewed by the Committee.
+
+Similarity to known substances and effects on the central nervous system
+Phenazepam belongs to the 1,4-benzodiazepines, the same family to which
+diazepam, oxazepam and temazepam belong, and it has a structural resemblance
+to diazepam, which is in Schedule IV of the Convention on Psychotropic
+Substances of 1971. Phenazepam and its metabolite, 3-hydroxyphenazepam,
+bind to the benzodiazepine binding site on the GABAA receptor. In laboratory
+animals, phenazepam shows many in vivo effects typical of benzodiazepines,
+including suppression of locomotor activity at moderate to high doses, induction
+of myorelaxation and anticonvulsant activity, and it can induce sleep. In humans,
+phenazepam exhibits many of the effects of a sedative.
+
+Dependence potential
+In laboratory animals, phenazepam can induce tolerance, and discontinuation
+of its administration can result in withdrawal effects indicative of physical
+dependence. Withdrawal signs, measured as an increase in the score of the
+Hamilton Anxiety Scale following discontinued administration of phenazepam,
+have been reported in one study.
+
+Actual abuse and/or evidence of likelihood of abuse
+User reports from Internet websites indicate that phenazepam may be used to
+enhance the euphoric effects of opioids (for example, to “boost” methadone doses),
+to alleviate withdrawal or abstinence syndromes (such as between heroin doses),
+to temper cocaine highs, and to augment the effects of alcohol. Unauthorized
+use of phenazepam has been reported over the past few years in Finland, New
+Zealand, Norway, Turkey, Russian Federation, Sweden, the United Kingdom and
+the USA. Effects such as psychomotor impairment, respiratory arrest, psychotic
+experiences, delirium, overdose and deaths have been reported, as well as driving
+under its influence. Phenazepam can be directly purchased from the Internet and
+has been sold as a powder, as tablets, and spiked in blotters similar to lysergic acid
+diethylamide (LSD).
+
+Therapeutic usefulness
+Phenazepam has been in clinical use since 1978, primarily in the Russian
+Federation, to treat epilepsy, insomnia and alcohol withdrawal syndrome, for
+short-term treatment of anxiety disorders (panic attacks), and as premedication
+prior to surgery, as it enhances the effects of anaesthetics while reducing anxiety.
+
+Recommendation
+The Committee undertook a pre-review of the substance and considered that
+the information provided in the pre-review report was sufficient and indicated
+that dependence and harm caused by phenazepam was of such magnitude that
+proceeding directly into critical review within the meeting was warranted. All
+procedural requirements for a critical review, including two peer reviews, were
+fulfilled. Phenazepam has been shown to have effects similar to diazepam that
+is in Schedule IV of the Convention on Psychotropic Substances of 1971. The
+Committee considered that the degree of risk to public health and society
+associated with the abuse of phenazepam is smaller but is still a significant risk
+to public health compared to substances in Schedules I–III and has a therapeutic
+usefulness from little to great. The Committee considered that the evidence of
+its abuse warranted its placement under international control. The Committee
+further recommended that phenazepam be placed in Schedule IV of the 1971
+Convention.

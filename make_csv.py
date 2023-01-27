@@ -5,6 +5,14 @@ Create csv file ready to upload to the drupal server, with all the
 info from the excel with the list of substances.
 """
 
+# Valid for the spreadsheet:
+# ECDD1950_Substances considered (2023_01_23 TLR).xlsx
+# (Others may have a different format and the program would need
+# tweaking.
+
+# To use with the "Substance record importer" feed at
+# https://ecddrepository.org/en/admin/content/feed
+
 import sys
 import os
 from collections import namedtuple
@@ -57,8 +65,8 @@ def to_csv(name, record):
     "Return a csv line with all the information of the substance"
 
     def add_path(txt):
-        #txt = txt.replace('--', '-')  # does drupal change this??
-        return  ('sites/default/files/' + txt.lower()) if txt else ''
+        path = 'https://ecddrepository.org/sites/default/files/'
+        return (path + txt.lower()) if txt else ''
 
     trs_fname = {  # name of the file that corresponds to the TRS number
         '21': 'WHO_TRS_21.pdf',
@@ -111,7 +119,7 @@ def to_csv(name, record):
         r.alternative_names,
         f'{r.years[-1]}-01-01',  # for "field_year" (it's of type date)
         build_sessions_years_assessments(r),  # for "field_year_s_and..."
-        class_code(r.dclass),
+        r.dclass,
         r.effect,
         r.recom_ECDD,
         r.scheduling,
@@ -136,7 +144,7 @@ def escape_commas(txt):
     if any(c in txt for c in ',“”"'):
         txt = txt.replace('“', '"')
         txt = txt.replace('”', '"')
-        return '"' + txt.replace('"', r'\"') + '"'
+        return '"' + txt.replace('"', '""') + '"'
     else:
         return txt
 
@@ -226,29 +234,29 @@ def get_info(row):
         return get_fname(hl.target) if hl else ''
 
     # Each letter contains the value at that column.
-    A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V = \
-        [value(c) for c in 'ABCDEFGHIJKLMNOPQRSTUV']
-    AE = value('AE')
+    A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W = \
+        [value(c) for c in 'ABCDEFGHIJKLMNOPQRSTUVW']
+    AF = value('AF')
 
     # Time to gather all that info!
     name = A
 
-    trs = AE.split()[-1] if AE else ''  # TRS number (e.g. '942')
+    trs = AF.split()[-1] if AF else ''  # TRS number (e.g. '942')
 
     record = Record(
         alternative_names=B,
         sessions=[G],
         years=[H],
         assessments=[J],
-        dclass=F,
+        dclass=F.lower(),
         effect=E,
         recom_ECDD=K,
         scheduling=L,
         link_report=link('M'),
         link_questio=link('N'),
         link_reviews=[link(c) for c in
-                      ['W', 'X', 'Y', 'Z', 'AA', 'AB', 'AC', 'AD'] if link(c)],
-        trs_extract=extract_sections(O, P, Q, R, S, T, U, V),
+                      ['X', 'Y', 'Z', 'AA', 'AB', 'AC', 'AD', 'AE'] if link(c)],
+        trs_extract=extract_sections([P, Q, R, S, T, U, V, W]),
         trs=trs)
 
     return name, record
@@ -257,7 +265,7 @@ def get_info(row):
 def get_recommendation(name, trs):
     "Return the info for substance name that appears in that TRS"
     # Not really just the recommendation, but all of it.
-    fname = f'../pdfs/links_to_trs/{trs}.txt'
+    fname = f'extracted_from_trs/{trs}.txt'
 
     if not os.path.exists(fname):
         print(f'Not reading TRS from nonexistent file {fname}')
@@ -275,16 +283,17 @@ def get_recommendation(name, trs):
     return to_html(drugs[name].items())
 
 
-def extract_sections(O, P, Q, R, S, T, U, V):
+def extract_sections(sections):
+    s1, s2, s3, s4, s5, s6, s7, s8 = sections
     sections = [
-        ('ECDD Technical summary', O),
-        ('Substance identification', P),
-        ('WHO review history', Q),
-        ('Similarity to known substances and effects on the CNS', R),
-        ('Dependence potential', S),
-        ('Actual abuse and or/evidence of likelihood of abuse', T),
-        ('Therapeutic usefulness', U),
-        ('Recommendation', V)]
+        ('ECDD Technical summary', s1),
+        ('Substance identification', s2),
+        ('WHO review history', s3),
+        ('Similarity to known substances and effects on the CNS', s4),
+        ('Dependence potential', s5),
+        ('Actual abuse and or/evidence of likelihood of abuse', s6),
+        ('Therapeutic usefulness', s7),
+        ('Recommendation', s8)]
     return to_html(sections)
 
 def to_html(sections):
@@ -306,14 +315,6 @@ def simplify_name(name):
         return name[:name.rfind('(')].strip().lower()
     else:
         return name.lower()
-
-
-def class_code(txt):
-    code_start = 1 #84  # it happens to be the one in drupal for the 1st one
-    classes = ['benzodiazepine', 'cannabinoid', 'dissociative', 'hallucinogen',
-               'insufficient information', 'opioid', 'other', 'sedative',
-               'stimulant']
-    return str(code_start + classes.index(txt.lower().strip()))
 
 
 def get_fname(link):

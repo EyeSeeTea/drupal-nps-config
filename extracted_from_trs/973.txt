@@ -1,0 +1,358 @@
+
+3.1       Substance recommended for change in scheduling
+3.1.1 γ-Hydroxybutyric acid (GHB)
+Substance identification and pharmacodynamics
+γ-Hydroxybutyric acid (GHB), also known as 4-hydroxybutanoic acid and
+sodium oxybate, is a naturally occurring substance found in low concentrations in
+mammalian tissues. It is considered to act by binding to GHB-specific receptors
+and γ-aminobutyric acid B (GABAB) receptors. At pharmacological doses it acts
+as a central nervous system depressant.
+
+Previous reviews
+GHB was pre-reviewed during the thirty-first (15) and thirty-second (16)
+meetings, held in 1998 and 2000, respectively. In 2001, GHB was placed in
+Schedule IV of the 1971 Convention by a decision of the CND. It was again
+pre-reviewed at the thirty-fourth ECDD meeting in 2006 (6), at which time the
+Expert Committee recommended a new critical review to consider its possible
+rescheduling.
+
+Evidence on dependence potential
+The Expert Committee examined additional information from the updated
+critical review report and peer-review reports. The Expert Committee noted that
+there is compelling evidence that dependence on GHB exists in humans and
+noted withdrawal syndromes and withdrawal seizures.
+
+Actual abuse
+The Expert Committee noted that at present, GHB appears to be mainly used and
+abused in the United States of America, Europe and Australia. Most GHB used
+illicitly originates from clandestine manufacture.
+In their discussions, the Expert Committee and advisers agreed on the narrow
+margin of safety of GHB. There have been numerous reports from Europe and
+the United States of accidental fatal and non-fatal overdoses where GHB was
+implicated, both when used alone and with other substances.
+The Expert Committee also noted there have been reports of GHB being used to
+facilitate sexual assault.
+
+Therapeutic usefulness
+GHB is used as a medicine in some countries on a small scale for various
+indications. GHB is not included in the WHO Model List of Essential Medicines
+(17).
+
+Need for the substance for other purposes (e.g., industrial)
+The Expert Committee acknowledged the use of GHB in the production of a
+wide variety of industrial polymers.
+
+Measures taken by countries to curb abuse
+The Expert Committee was made aware of measures taken by 30 out of the
+51 countries that responded to the questionnaire circulated by WHO in 2008
+in preparation for the meeting. For example, Norway is planning to implement
+legal limits for driving under the influence of non-alcohol drugs including GHB.
+In the United States, GHB (Xyrem®) is available for the treatment of narcolepsy
+in association with an extensive risk management programme. Postmarketing
+data from this programme show minimal abuse or diversion of this product. The
+Netherlands recently re-assessed the risk potential of GHB and found it to be
+moderate to high. On this basis GHB was upgraded to List 1 (hard drugs) of the
+Dutch Opium Act.
+
+Recommendation
+The Expert Committee considered the implications of rescheduling this substance.
+On the basis of available data on its toxicity and dependence potential, the Committee
+rated the abuse liability of GHB to be substantial, whereas the therapeutic usefulness
+is little to moderate. The Committee therefore came to the conclusion that GHB
+should be moved from Schedule IV to Schedule II of 1971 Convention.
+
+3.2       Other substance critically reviewed
+3.2.1 Ketamine (INN)
+Substance identification
+Ketamine (INN) is (±)-2-(o-chlorophenyl)-2-(methylamino)-cyclohexanone.
+It contains a chiral centre, resulting in two enantiomers: S-(+)-ketamine and
+R-(–)-ketamine. Usually, the racemate is marketed, but the more active S-(+)-
+enantiomer is increasingly present in commercially available preparations.
+
+Previous reviews
+During its thirty-third meeting in September 2002, the ECDD pre-reviewed
+ketamine (18). Based on the available information, a recommendation was
+made for a critical review of this substance. During its thirty-fourth meeting,
+the ECDD discussed the critical review report on ketamine and concluded that
+this information was not sufficient to warrant scheduling (6). The Committee
+therefore requested the Secretariat to produce an updated version of the critical
+review for the thirty-fifth meeting.
+
+Evidence on dependence potential
+Ketamine may produce dependence in animal models, but reports of dependence
+in humans are rare and largely limited to health-care professionals with access to
+ketamine. The short duration of action makes it difficult to maintain intoxication
+for sustained periods. Tolerance may occur, but there is insufficient evidence to
+show that ketamine causes a withdrawal syndrome in humans.
+
+Actual abuse
+Information on ketamine is not routinely collected in population surveys and
+morbidity and mortality data collection systems. Levels of use in the general
+population, however, appear to be very low with higher levels in groups with
+access to the substance (e.g., medical and veterinarian professionals) and party
+drug users. Ketamine is difficult to synthesize, so illicit production is rare in most
+countries. However, representatives of the INCB and United Nations Office on
+Drugs and Crime (UNODC) reported that illicit production of ketamine is of
+increasing concern in China and India. China reported an increase in the chronic
+use of ketamine among young adults, particularly in Macao and Hong Kong.
+The chronic use of ketamine was associated with urinary tract dysfunction. In
+the United States, a national survey of schoolchildren showed that ketamine use
+has remained very low and steady since 2007, and data from hospital emergency
+departments suggest that ketamine-related visits constitute fewer than one out of
+every 2000 visits caused by illicit drug use per year.
+
+Therapeutic usefulness
+Ketamine is widely used as an anaesthetic in human and veterinary medicine,
+and is included in the WHO Model List of Essential Medicines (17) and WHO
+Model List of Essential Medicines for Children (19). Compelling evidence was
+presented about the prominent place of ketamine as an anaesthetic in developing
+countries, particularly in Africa. The ease of parenteral administration gives
+ketamine a major advantage when anaesthetic gases are impossible to use due
+to limited equipment and a lack of appropriately trained specialists. In many
+countries there are no suitable alternatives that are affordable.
+
+Recommendation
+Ketamine is a widely used anaesthetic, especially in developing countries,
+because it is easy to use and has a wide margin of safety when compared with
+other anaesthetic agents. While the Expert Committee acknowledged the concerns
+raised by some countries and UN organizations, ketamine abuse currently does
+not appear to pose a significant global public-health risk. Concerns were raised
+that if ketamine were placed under international control, this would adversely
+impact its availability and accessibility. This in turn would limit access to
+essential and emergency surgery, which would constitute a public-health crisis
+in countries where no affordable alternative anaesthetic is available. On this
+basis, the Expert Committee decided that bringing ketamine under international
+control is not appropriate. Furthermore, it noted that some countries have already
+placed this medicine under control. Countries with serious abuse problems may
+decide to maintain control measures, but should ensure ready access to ketamine
+for surgery and anaesthesia for human and veterinary care.
+
+4.1.1       Dextromethorphan (pINN)
+Discussion
+Dextromethorphan is (+)-3-methoxy-17-methyl-(9α,13α,14α)-morphinan. During
+the fourth meeting of the ECDD in 1953 (then: Expert Committee on Drugs
+Liable to Produce Addiction), the synthetic substances of the morphinan type,
+including dextromethorphan, were discussed (20). After reviewing the worldwide
+reports at that time, the Expert Committee concluded that dextromethorphan
+has no morphine-like actions, lacks the ability to sustain morphine dependence,
+and exhibited no signs of dependence liability. Therefore, the Expert Committee
+recommended against placing dextromethorphan under control of the Conventions.
+In order to update the scientific evidence on dextromethorphan, a member of the
+Expert Committee proposed that it be pre-reviewed.
+       Dextromethorphan is the d-isomer of the codeine analogue methorphan; however,
+unlike the l-isomer, it does not act through opioid receptors. Dextromethorphan
+binds with high affinity to sites associated with sigma ligands and low affinity
+to the phencyclidine (PCP) binding site of the N-methyl-D-aspartate (NMDA)
+receptor. The relationship of these receptor binding sites to the pharmacological
+mechanism of the antitussive effects of dextromethorphan is not known.
+Dextromethorphan produces PCP-like discriminative stimulus effects in rats and
+partial substitution for PCP in monkeys probably produced by the metabolite
+dextrorphan. Dextromethorphan can alter self-administration of several
+substances of abuse such as morphine, cocaine, and methamphetamine. Few data
+exist on dextromethorphan dependence, with only a handful of cases described
+in scientific literature. Cases of abuse of dextromethorphan have been reported
+in several countries. However, these reports are still relatively infrequent.
+Dextromethorphan is produced commercially in many regions of the world,
+but synthesis is a complex and time-consuming process, making clandestine
+production impractical. Dextromethorphan is widely used as an antitussive in
+many over-the-counter and prescription-only preparations.
+
+Recommendation
+Following review of the documents presented at the thirty-fifth meeting, the Expert
+Committee concluded that the abuse potential of dextromethorphan is relatively low,
+intoxications are rare, and reports of dependence are infrequent. Dextromethorphan
+is widely used as an antitussive agent and placing it under international control
+could negatively impact its availability for medical use. On this basis, the Expert
+Committee concluded that a critical review is not warranted at this time.
+
+4.1.2     Tapentadol (INN)
+Discussion
+Tapentadol is 3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]-phenol
+hydrochloride. Tapentadol has two chiral centres and is manufactured as a single
+(R,R) stereoisomer. Tapentadol shares a 3-(3-hydroxyphenyl)propylamino
+structural fragment with morphine and its analogues. It is a novel analgesic agent
+with activity at the μ-opioid receptor and norepinephrine reuptake inhibition.
+Immediate release and extended release formulations of tapentadol are indicated
+for analgesia. Tapentadol demonstrates improved gastrointestinal tolerability
+(specifically in the incidence of nausea, vomiting, and constipation) compared
+with strong opioids at doses providing similar analgesia. Dependence has been
+demonstrated in animal models, but the level of dependence relative to morphine
+is not known. Mild withdrawal was observed in clinical trials submitted for the
+initial approval of tapentadol. Tapentadol has only been marketed since 2009
+and therefore has not appeared in many substance use surveys or surveillance
+reports. Overall, toxicity for tapentadol does not appear to be greater than that for
+other μ-opioid receptor agonists. In the 3 years since tapentadol was launched in
+the United States, analyses of postmarketing surveillance data show lower abuse
+than oxycodone and slightly higher abuse than tramadol. The Expert Committee
+noted that tapentadol has been scheduled or recommended for scheduling in
+Australia, Germany, the Netherlands, New Zealand, Switzerland, the United
+States and the United Kingdom.
+
+Recommendation
+Given the action of tapentadol at the μ-opioid receptor, together with some evidence
+of abuse, the Expert Committee recommended that a critical review be conducted.
+
+4.3       Piperazines
+4.3.1     N-Benzylpiperazine (BZP)
+Discussion
+N-Benzylpiperazine (BZP) is 1-benzylpiperazine. It is a piperazine derivative
+with stimulant properties (including euphoria). Animal studies have shown that
+BZP stimulates the release and inhibits the reuptake of dopamine, serotonin and
+noradrenaline, but dopaminergic and serotonergic effects predominate. In studies,
+BZP was found to be less potent than methylenedioxymethamphetamine (MDMA),
+methamphetamine or amphetamine. BZP has never been licensed as a medicine but was
+found to be an active metabolite of a proposed anti-depressant (piberaline, a product
+that was later not marketed). Abuse was first reported in the late 1990s in the USA and
+Scandinavia but has since been reported in other countries (particularly in Australia,
+Europe and New Zealand). The behavioural effects of BZP include amphetamine-
+like effects. Many suppliers of BZP market the substance as “legal ecstasy” or as a
+“legal high”. Such products typically contain other piperazine derivatives in variable
+quantities. Toxic effects have been reported (agitation, tachycardia and seizures) with
+associated hospital admissions, but cases involving BZP alone are rare. Although BZP
+has been found in substance-related deaths, in the vast majority of instances, other
+commonly abused substances were also present; therefore the role of BZP in these
+deaths is unclear.
+
+Recommendation
+Based on the reported psychostimulant effects, evidence of abuse, and adverse effects,
+the Expert Committee concluded that a critical review of N-benzylpiperazine is
+warranted.
+
+4.3.2     1-(3-Trifluoromethylphenyl)piperazine (TFMPP)
+Discussion
+1-(3-Trifluoromethylphenyl)piperazine (TFMPP) is a piperazine derivative with mild
+stimulant effects and hallucinogenic properties. TFMPP has never been licensed as a
+medicine but is a known metabolite of a previously used anti-inflammatory analgesic
+(antrafenine). Its use was first reported in the late 1990s in Scandinavia and the
+United States along with BZP, but has since been reported in various other countries
+(particularly Europe and New Zealand). Many suppliers of TFMPP market the
+substance as “legal ecstasy” or as a “legal high”. Such products typically contain other
+piperazine derivatives in variable quantities. Very few user reports involving the use
+of TFMPP alone have been documented. However, the toxic effects reported include:
+nausea, hallucinations and slight tremors. Hospital admissions have occurred, but all
+involved other substances (including piperazines). Although TFMPP has been found
+in drug-related deaths, in the vast majority of instances, other substances of abuse were
+also present; therefore the role of TFMPP in these deaths is unclear. Animal studies
+have indicated that TFMPP is unlikely to possess abuse or dependence potential, but
+there are no human clinical studies to support this.
+
+Recommendation
+1-(3-Trifluoromethylphenyl)piperazine does not appear to have abuse and
+dependence potential. On this basis, the Expert Committee decided that a critical
+review is not warranted at this time.
+
+4.3.3   1-(3-Chlorophenyl)piperazine (mCPP)
+Discussion
+1-(3-Chlorophenyl)piperazine (mCPP) is a piperazine derivative with stimulant
+(including euphoric) and hallucinogenic properties. mCPP has never been
+licensed as a medicine but is a known metabolite of some antidepressants and is
+a tranquillizer. Its use was first reported in the mid-2000s across Europe but has
+since been reported in various other countries (e.g., the United States). mCPP is
+sometimes sold as “legal ecstasy” or as a “legal high” or as “ecstasy” itself. Such
+products can contain other piperazine derivatives as well as other psychoactive
+substances including MDMA. Very few user reports involving the use of mCPP
+alone have been documented. However, the toxic effects reported include:
+nausea, hallucinations, headache and most frequently, anxiety and panic attacks.
+There are no published reports of non-fatal or fatal hospital admissions. In
+Europe, a few cases reported to monitoring centres have mentioned hot flushes,
+some respiratory problems and coma, but all these cases also involved other
+unspecified substances. No specific studies have been performed to determine
+the abuse or dependence potential of mCPP but, in animal discrimination studies,
+it has been found to mimic TFMPP, ethanol and MDMA, but not lysergic acid
+diethylamide (LSD). Its abuse and dependence potential in humans is unclear.
+
+Recommendation
+The Expert Committee considered the information contained in the pre-review, and
+found that there is a paucity of data on 1-(3-chlorophenyl)piperazine. Furthermore
+its abuse and dependence potential in humans remains unclear. On this basis, the
+Expert Committee concluded that a critical review is not warranted at this time.
+
+4.3.4   1-(4-Methoxyphenyl)piperazine (MeOPP)
+Discussion
+1-(4-Methoxyphenyl)piperazine (MeOPP) is a piperazine derivative that appears
+to have mild stimulant effects (including euphoria) and some hallucinogenic
+properties. Very little information is available on this substance. MeOPP has
+never been licensed as a medicine. The first report of seized material containing
+MeOPP appeared in 2006 in the United Kingdom. Many suppliers market the
+substance as “legal ecstasy” or as a “legal high”. Such products typically contain
+other piperazine derivatives in variable quantities. There are no published reports
+of non-fatal or fatal hospital admissions. No specific studies have been performed
+to determine the abuse or dependence potential.
+
+Recommendation
+Given the limited information available, and the current lack of evidence
+of abuse, the Expert Committee recommended that a critical review for
+1-(4-methoxyphenyl)piperazine not be conducted at this time.
+
+4.3.5     1-(3,4-Methylenedioxybenzyl)piperazine (MDBP)
+Discussion
+1-(3,4-Methylenedioxybenzyl)piperazine (MDBP or MDBZP) is a piperazine
+derivative but its effects are largely unknown. MDBP has never been licensed
+as a medicine but is a metabolite of a withdrawn nootropic medicine, fipexide.
+This medicine was withdrawn because it had adverse toxic effects (fever and
+hepatotoxicity). Use of MDBP has been noted by governmental organizations
+in the United States but there are no reports from other countries. There are no
+published reports of non-fatal or fatal hospital admissions. No specific studies
+have been performed to determine the abuse or dependence potential of MDBP.
+
+Recommendation
+Based on the lack of animal, human clinical, and epidemiological data on the abuse
+and dependence potential of MDBP, the Expert Committee did not recommend a
+critical review of 1-(3,4-methylene-dioxybenzyl) piperazine at this time.
+
+4.4.1       γ-Butyrolactone (GBL)
+Discussion
+γ-Butyrolactone (GBL) is oxolan-2-one. The pre-review of GBL was decided
+on the basis that GBL can be readily converted both chemically and in the body
+to GHB. GHB is a controlled substance under the 1971 Convention, and was
+subject to a critical review at the thirty-fifth meeting of the ECDD. The Expert
+Committee discussed GBL in the context of GHB and 1,4-butanediol (1,4-BD),
+another precursor of GHB, see sections 3.1 and 4.5. GBL is widely used as a
+solvent and reagent in the chemical industry. Since the end of the 1990s, reports
+of abuse of GBL have emerged, mainly from Australia, Europe and the United
+States. The epidemiology of the abuse of GBL is intrinsically linked to that
+of GHB since GBL is rapidly metabolized to GHB. A few deaths have been
+documented, but owing to the rapid metabolism it is difficult to establish whether
+GHB, GBL or 1,4-BD was consumed. Several cases of withdrawal from GBL,
+1,4-BD and GHB have been documented. The new controls rapidly curtailed the
+previously open sale of GHB. This may also help to explain the emergent use of
+GBL, which does not currently fall under the controls of the international drug
+control convention. In view of concerns about the diversion of GBL and 1,4-BD
+for conversion to GHB, some Member States have chosen to control GBL, 1,4-
+BD, or both, under drug control or equivalent legislation and voluntary measures
+to prevent diversion.
+
+Recommendation
+Based on the evidence presented in the pre-review of GBL, its close association
+with GHB, and the recommendation made by the Expert Committee to reschedule
+GHB from Schedule IV to Schedule II of the 1971 Convention, the Committee
+recommended that a critical review of GBL be undertaken.
+
+4.5.1     1,4-Butanediol (1,4-BD)
+Discussion
+The pre-review of 1,4-BD was conducted on the basis that 1,4-BD can be
+readily converted both chemically and in the body to GHB. GHB is a controlled
+substance under the 1971 Convention, and was subject to a critical review at
+the thirty-fifth meeting of the ECDD. The Expert Committee discussed 1,4-
+BD in the context of GHB and GBL, another precursor of GHB, see
+sections 3.1 and 4.4. 1,4-BD is an industrial chemical and an important raw material
+widely used in the chemical, pharmaceutical, textile, paper making, and motor
+vehicle industries. Starting in the 1990s, it is believed that national controls on
+GHB prompted substitution of 1,4-BD and GBL for GHB as drugs of abuse. The
+epidemiology of the abuse of 1,4-BD is intrinsically linked to that of GHB since
+1,4-BD is rapidly metabolized to GHB. A few deaths have been documented,
+but owing to the rapid metabolism it is difficult to establish whether GHB, GBL
+or 1,4-BD was consumed. It appears to be mainly used and abused in Australia,
+Europe, and the United States. The new controls rapidly curtailed the previously
+open sale of GHB. They may also help to explain the emergent use of 1,4-BD,
+which does not currently fall under the controls of the international drug control
+convention. In view of concerns about the diversion of GBL and 1,4-BD for
+conversion to GHB, some Member States have chosen to control GBL, 1,4-BD,
+or both, under drug control or equivalent legislation and voluntary measures to
+prevent diversion.
+
+Recommendation
+Based on the evidence presented in the pre-review of 1,4-BD, its close association
+with GHB, and the recommendation made by the Expert Committee to reschedule
+GHB from Schedule IV to Schedule II of the 1971 Convention, the Committee
+recommended that a critical review of 1,4-BD be undertaken.

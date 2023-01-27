@@ -1,0 +1,517 @@
+
+2.1   Substances recommended for changes in scheduling
+2.1.1 Dronabinol (INN)
+Substance identification
+Dronabinol (INN) is (6aR,10aR)-6a,7,8,10a-tetrahydro-6,6,9-trimethyl-3-
+pentyl-6-H-dibenzo[b, d]pyran-1-ol. It is the (6aR,10aR)-stereoisomer of
+delta-9-tetrahydrocannabinol and is also designated (–)-trans-delta-9-tetra-
+hydrocannabinol.
+        Other stereoisomers of delta-9-tetrohydrocannabinol are: (6aR,10aS)-,
+6aS,10aR)- and (6aS,10aS)-, also known as (–)-cis-, (+)-cis- and (+)-
+trans-, respectively. Delta-9-tetrohydrocannabinol has two racemates,
+6aRS,10aRS)- and (6aRS,10aSR)-, also known as (±)-trans- and (±)-cis-,
+respectively.
+        Originally, all isomers of tetrahydrocannabinol were included in Schedule I
+of the 1971 Convention. This was later amended to include seven named
+constitutional isomers and their respective stereochemical variants. The
+term “constitutional isomers” used above has recently been introduced by
+the International Union of Pure and Applied Chemistry (IUPAC) to replace
+the traditionally used term “positional isomers”.
+    The term “stereochemical variants” used in the 1971 Convention and men-
+tioned above is equivalent to the term “stereoisomers”, which is at present
+much more widely used in the chemical and related literature. Both terms
+cover geometric isomers and optical isomers.
+
+Previous review
+Delta-9-tetrahydrocannabinol was included in Schedule I of the 1971 Con-
+vention at the time of its adoption. At its twenty-sixth meeting, the Com-
+mittee recommended that dronabinol be moved to Schedule II, while keep-
+ing the other isomers and their stereochemical variants in Schedule I (4).
+This proposal was rejected at the 11th Special Session of the Commission
+on Narcotic Drugs, and the Committee reviewed the question again at its
+twenty-seventh meeting when it recommended that all the stereochemical
+variants of delta-9-tetrahydrocannabinol be rescheduled to Schedule II (5).
+This recommendation was adopted by the United Nations Commission on
+Narcotic Drugs at its 34th session (6). At its thirty-second meeting, the
+Committee pre-reviewed dronabinol and recommended its critical review
+for consideration of the rescheduling on the grounds that the rate of abuse
+of dronabinol was extremely low (7).
+   Delta-9-tetrahydrocannabinol was critically reviewed by the Expert Com-
+mittee on Drug Dependence at its thirty-third meeting in September 2002
+3). On the basis of the available data the Committee considered that
+dronabinol should be rescheduled to Schedule IV of the 1971 Convention.
+However, no further procedural steps were taken. Therefore, the existing
+critical review report was updated, including information from recent
+scientific publications, to enable the Committee to finalize the process
+of critical review.
+
+Similarity to known substances and effects on the central nervous system
+Dronabinol is the main active principle of cannabis and has similar effects
+on mood, perception and the cardiovascular system. The cannabis plant
+contains a “natural mixture” of around 70 different cannabinoids, and also
+contains flavonoids and terpenes, as well as many other substances. There-
+fore the pharmacological properties of natural cannabis and dronabinol are
+not identical.
+
+Dependence potential
+Animal studies have demonstrated that, like other drugs of abuse, dronabi-
+nol acts as a drug reinforcer. Physical dependence, as shown by withdrawal
+syndrome following chronic administration, has also been demonstrated.
+Reinforcing effects and physical dependence have also been described in
+human studies.
+
+Actual abuse and/or evidence of likelihood of abuse
+The abuse of dronabinol is currently rare and there have been very few
+specific reports of its occurrence. In response to the WHO questionnaires
+only the United States mentioned instances of abuse of
+delta-9-tetrahydrocannabinol. At present, the quantity produced by licit manufacture
+is limited. In the United States, which is the major manufacturing country, the
+abuse of dronabinol medicinal preparations is reported to be very low and
+there are no reports of diversion of the pharmaceutical product.
+
+Therapeutic usefulness
+Dronabinol preparations have been used in a limited number of countries in
+the treatment of nausea and vomiting associated with cancer chemotherapy
+in patients who have failed to respond adequately to conventional anti-
+emetic treatments and in the treatment of anorexia associated with weight
+loss in patients with acquired immunodeficiency syndrome (AIDS). It has
+also been indicated in the treatment of chronic pain (e.g. in multiple
+sclerosis, neuropathic disorders and arthritis), neurological disorders and
+appetite loss in cachexia, and is being evaluated for use in various other
+clinical situations.
+
+Recommendation
+The Committee reconsidered the recommendation of the thirty-third Expert
+Committee after considering the updated critical review report. The Com-
+mittee concluded that dronabinol constitutes a substantial risk to public
+health. However this risk is different from those related to cannabis —
+controlled under the 1961 Convention. The substance has a moderate therapeu-
+tic usefulness and as a result of continuing clinical research its medical use
+is likely to increase. Therefore, the Committee recommended that dronabinol
+(INN) and its stereoisomers should be rescheduled from Schedule II to
+Schedule III of the 1971 Convention.
+         To avoid legal and forensic chemical problems that may arise in some
+countries when placing stereoisomers of the same substance under different control
+systems, the Committee indicated that the recommendation pertains to all
+stereoisomeric forms of delta-9-tetrahydrocannabinol as specified above.
+
+2.1.2 Oripavine
+Substance identification
+Oripavine, 3-O-demethylthebaine, or
+6,7,8,14-tetradehydro-4,5-alpha-epoxy-6-methoxy-17-methylmorphinan-3-ol
+is a phenanthrene alkaloid contained
+in species of the Papaver plant. It is a major metabolite of thebaine.
+
+Previous review
+Oripavine was pre-reviewed at the thirty-third meeting of the Expert Committee
+in 2002 (3). The reason for pre-review in 2002 was that oripavine is
+a substance that is convertible into thebaine, and because thebaine is in turn
+convertible into morphine. Thebaine and morphine are both in Schedule I
+of the 1961 Convention. Owing to uncertainties regarding the schedul-
+ing of oripavine based on the additional possibility of applying the 1988
+Convention (8), the Committee did not finalize this review at its thirty-
+third meeting, but asked WHO for clarification of issues related to the
+conversion of precursors into scheduled substances. Subsequent clarifica-
+tion of these issues allowed the Committee to come to a conclusion at its
+thirty-fourth meeting.
+
+Recommendation
+The Committee decided that oripavine is a substance that is easily convertible
+into thebaine and other substances controlled in Schedule I of the 1961
+Convention. Hence, the Committee recommended that oripavine be scheduled,
+like the substances mentioned, in Schedule I of the 1961 Convention.
+
+2.2   Other substances critically reviewed
+2.2.1 Buprenorphine (INN)
+Substance identification
+Buprenorphine (INN) is chemically
+21-cyclopropyl-7-alpha-[(S)-1-hydroxy-1,2,2-trimethylpropyl]-6,14-endo-ethano-6,7,8,14-tetrahydrooripavine
+CAS 53152-21-9 for the hydrochloride; 52485-79-7 for the free base).
+
+Previous review
+In 1989, a decision of the United Nations Commission on Narcotic Drugs
+placed buprenorphine (INN) in Schedule III of the Convention on Psy-
+chotropic Substances (1971 Convention). The decision followed the
+recommendation of the Expert Committee on Drug Dependence at its
+twenty-fifth meeting (9). During its thirty-second meeting in 2000 (7), the
+Committee considered the question of the scheduling of buprenorphine
+and recommended critical review of the substance, taking into account a
+request by the INCB, as well as questions concerning the rationale for the
+control of this substance under the 1971 Convention rather than the 1961
+Single Convention.
+       At its thirty-third meeting, the Committee commenced the critical review
+of the scheduling of buprenorphine on the basis of a review document pro-
+duced by the Secretariat (3). The Committee considered that buprenorphine
+met the requirements both for scheduling in the 1961 Convention and for its
+present scheduling in the 1971 Convention. However, taking any decision
+was hindered by a lack of authoritative guidance on the choice between the
+two possibilities. Therefore, the Expert Committee had to seek guidance for
+its decision from the Conventions, from the existing guidelines and from an
+appreciation of the impact of changes in the scheduling on public health.
+
+New information since 2002
+A document provided by the Secretariat for the thirty-fourth meeting of the
+Committee indicated an expansion in the therapeutic role of buprenorphine.
+Buprenorphine (and other medicines used in agonist pharmacotherapy of
+opioid dependence, such as methadone) is recognized as an efficacious and
+cost-effective treatment for opioid dependence. Buprenorphine maintenance
+treatment programmes provide opportunities for human immunodeficiency
+virus (HIV)/AIDS prevention among opioid-dependent injecting drug
+users and also support the implementation of directly observed antiretro-
+viral therapy (ART) for people with opioid dependence who also have HIV/
+AIDS. Buprenorphine maintenance treatment programmes can also act as
+a platform for promoting adherence to medical treatment of opportunistic
+infections. Buprenorphine maintenance treatment was stated to be available
+in about 30 countries. In March 2005, WHO included buprenorphine in
+the 14th WHO Model List of Essential Medicines for use in opioid agonist
+therapy of opioid dependence (10).
+        Data were presented to the Committee demonstrating unique pharmaco-
+logical actions of buprenorphine, which distinguish it from other opioids
+controlled under the Single Convention. Specifically, buprenorphine is also
+an agonist at the ORL-1 receptor in the brain, which affects its µ-opioid
+actions. These new findings suggest that buprenorphine has a unique spec-
+trum of pharmacological actions.
+     There have been reports of diversion, seizures and abuse of buprenor-
+phine in various countries. It was reported that in many instances
+buprenorphine was being illegally used for alleviating symptoms of opioid
+withdrawal.
+
+Additional considerations
+Additional documents presented to the Committee at its thirty-fourth meet-
+ing dealt primarily with the possible effects of rescheduling buprenorphine
+from the 1971 Convention to the 1961 Convention.
+     The Committee was informed that this question had been discussed during
+the 115th meeting of the WHO Executive Board. It was indicated during the
+discussion that the transfer of substances from one convention to the other
+would result in problems with implementation of the conventions in national
+laws. A concern was expressed that transfer could consequently give rise to
+rescheduling at the national level, which would have the unintended effect
+of restricting access to buprenorphine for use in opioid agonist therapy. Of
+the 56 countries that responded to the WHO questionnaire, 14 stated that
+such a rescheduling would result in impeded access to treatment.
+     The documents presented to the meeting also discussed the legal
+considerations relating to the transfer of substances between conventions.
+Taking into account the text of the Single Convention on narcotic drugs
+and the United Nations Convention on psychotropic substances as well
+as official commentaries to both Conventions and information included
+in WHO guidelines for the review of dependence-producing psycho-
+active substances for international control, it is advisable that a substance
+should not be under more then one Convention. The WHO guidelines give
+guidance for the scheduling of new drugs, not yet scheduled, and on the
+choice between the Conventions for those drugs. They also give guidance
+for the scheduling of drugs already in the 1988 Convention. However,
+the guidelines do not give guidance on the transfer of a substance from
+the 1961 to the 1971 Convention or vice versa. A transfer of a substance
+from one Convention to the other would demand that the United Nations
+Commission on Narcotic Drugs take a simultaneous decision on deletion of
+a substance from one Convention and adding it to the appropriate schedule
+of another Convention. A procedure for making a deletion from the
+schedules of the 1971 Convention is included in article 2 para. 6 of
+the Convention and requires a new assessment by WHO. A similar
+provision is included in the 1961 Convention article 3 para. 6(b). No
+provision is included, however, to indicate that these decisions are to be
+taken simultaneously.
+
+Discussion
+In the course of the meeting, members of the Committee expressed their
+views concerning various aspects of the current scheduling status of
+buprenorphine and the possible consequences, including legal aspects, of
+its rescheduling. It became evident that there were divergent views on the
+legal situation related to the transfer of substances between Conventions.
+The majority of the members considered however that the Expert Commit-
+tee on Drug Dependence is not properly constituted to discuss legal issues
+related to international treaties.
+
+Recommendation
+Following review of the documents presented at the present meeting, which
+expanded the information made available at its thirty-third meeting, the
+Committee considered the unique pharmacological actions of buprenor-
+phine, and its expanded role in the treatment of opioid dependence. This
+pharmacological treatment of opioid dependence also contributes to the
+efficient prevention and treatment of HIV/AIDS among opioid-dependent
+injecting drug users. Hence, the Committee did not recommend any change
+in the present scheduling of the substance in Schedule III of the 1971
+Convention.
+
+2.2.2 Butorphanol (INN)
+Substance identification
+Butorphanol (INN) is chemically
+(–)-17-(cyclobutylmethyl)morphinan-3,14-diol.
+
+Previous review
+Butorphanol was pre-reviewed by the Committee at its thirty-third meeting
+in September 2002 (3). The Committee recommended a critical review
+based on reports of abuse in some countries.
+
+Similarity to known substances and effects on the central nervous system
+Butorphanol is a synthetic opioid partial agonist analgesic with proper-
+ties similar to other µ-opioid agonists such as scheduled substances
+buprenorphine and pentazocine. Although in radioligand-binding studies,
+butorphanol binds to both µ- and κ-opioid receptors, most of the observed
+behavioural, pharmacological and therapeutic effects appear to be due to its
+µ-opioid receptor agonist activity. Early studies suggested that butorphanol
+did not produce complete respiratory depressant effects and a “plateau” or
+ceiling effect” was observed although more recent studies have challenged
+this notion. Moderate adverse effects on the central nervous system such as
+nausea/vomiting, headache, clamminess, sweatiness, asthenia, paraesthe-
+sia, sedation, lethargy, anxiety, nervousness, euphoria, vertigo, dizziness,
+floating feeling, confusion and light-headedness are often reported following
+both parenteral and intranasal administration.
+
+Dependence potential
+Early preclinical studies in laboratory animals suggested that butorphanol
+has lower abuse potential than full µ-agonists such as morphine. Human
+studies have indicated that although the incidence of butorphanol dependence
+is infrequent, the withdrawal symptoms are very similar to those
+observed for morphine and buprenorphine. Information on the abuse potential
+of the different formulations of butorphanol shows that, from a pharmacological
+viewpoint, the trans-nasal preparation does not appear to differ in
+its abuse liability from the parenteral preparations. However, other non-
+pharmacological factors such as availability and pattern of use can play
+critical roles in the likelihood of its abuse.
+
+Actual abuse and/or evidence of likelihood of abuse
+Abuse and diversion have been reported by very few countries — only two
+countries of the 74 that responded to the WHO questionnaire mentioned
+abuse of butorphanol.
+
+Therapeutic usefulness
+Butorphanol is used medically in humans as an analgesic for the relief of
+moderate-to-severe acute pain in certain specific conditions such as post-
+surgical pain or migraine. Butorphanol was stated as being available for
+medical use in 21 of the 74 countries that responded to the WHO questionnaire.
+It is also used in veterinary medicine as an analgesic and antitussive agent.
+
+Recommendation
+After reviewing the information available, the Committee considered that
+the level of abuse of butorphanol is low, limited to a few countries and does
+not pose a risk to public health. Therefore, the Committee did not recommend
+scheduling of butorphanol.
+
+2.2.3 Ketamine (INN)
+Substance identification
+Ketamine (INN) is (±)-2-(o-chlorophenyl)-2-(methylamino)cyclohexanone.
+It contains a chiral centre, resulting in two enantiomers: S-(+)-ketamine and
+R-(–)-ketamine. Usually, the racemate is marketed but the more active
+S-(+)-enantiomer is increasingly present in commercially available preparations.
+
+Previous review
+Ketamine was pre-reviewed by the Committee at its thirty-third meeting
+and critical review was recommended on the basis of reports of abuse in
+various countries (3).
+
+Similarity to known substances and effects on the central nervous system
+Ketamine is an arylcycloalkylamine structurally related to cyclidines such
+as phencyclidine. It is a non-competitive NMDA-receptor antagonist that
+affects the central nervous system, resulting in hallucinations, disturbances
+in thinking, perception and motor function and may also produce mild re-
+spiratory depression. It is used as an anaesthetic in both human and
+veterinary medicine.
+
+Dependence potential
+Various animal models have shown that ketamine can produce a state of
+dependence, but reports of such dependence in humans are very limited.
+Tolerance may occur, but there is no evidence of a withdrawal syndrome.
+
+Actual abuse and/or evidence of likelihood of abuse
+Abuse has been reported in a number of countries in the Americas, Asia and
+Europe, sometimes in a mixture with other substances.
+
+Therapeutic usefulness
+Ketamine is widely used as an anaesthetic and analgesic in human and
+veterinary medicine. Ketamine was stated as being available for medical use
+in 70 out of the 74 countries that answered the WHO questionnaire. It is
+included as a general anaesthetic in the 14th WHO Model List of Essential
+Medicines (10).
+
+Recommendation
+The Committee reviewed the information contained in the critical review
+document and concluded that this information was not sufficient to warrant
+scheduling. However, in the course of the meeting, the Committee
+was informed that the United Nations Commission for Narcotic Drugs at
+its 49th session, held in March 2006, had adopted a draft resolution for
+transmission to ECOSOC, on the listing of ketamine as a controlled substance
+(11). The Committee requested the Secretariat to produce an updated
+version of the critical review and present it to the next meeting of the Expert
+Committee on Drug Dependence.
+
+2.2.4 Khat (Catha edulis Forsk.)
+Substance identification
+Khat refers to the leaves and the young shoots of the plant Catha edulis
+Forsk., a species belonging to the plant family Celastraceae. It is also written
+and/or known as qat, q’at, kat, kath, gat, chat, tschat (Ethiopia), miraa
+Kenya) and murungu. The dried leaves of khat are known as Abyssinian
+tea or Arabian tea.
+
+Previous review
+Khat had been considered and reviewed by the Expert Committee many
+years previously, and at its thirty-third meeting the Committee pre-reviewed
+khat and concluded that there was sufficient information on this substance
+to justify a critical review (3).
+
+Similarity to known substances and effects on the central nervous system
+The major psychoactive compounds found in khat are cathinone and cathine
+norpseudoephedrine), which are scheduled under the 1971 Convention,
+and norephedrine, which is controlled under the 1988 Convention. The
+plant contains only the (–)-enantiomer of cathinone, which has the same
+absolute configuration as S-(+)-amphetamine. Use of khat produces a state
+of euphoria and increased alertness. It can also produce insomnia and an
+increase in blood pressure, heart rate and body temperature. Psychotic
+reactions induced by khat use have also been reported.
+
+Dependence potential
+There is inconsistent data regarding the dependence potential of khat.
+Withdrawal symptoms after prolonged use may include loss of energy, lethargy,
+depressive feelings and slight trembling, but these symptoms are mild and
+resolve rapidly. Some tolerance may also develop.
+
+Actual abuse and/or evidence of likelihood of abuse
+Khat leaves are chewed habitually in the south-western part of the Arabian
+Peninsula and in East Africa. However, khat chewing has spread to other
+African countries and to Australia, Europe and the USA. Daily consump-
+tion of khat may have negative effects on the social and economic life of the
+user. Khat is used in social gatherings.
+
+Therapeutic usefulness
+No confirmed therapeutic usefulness has been identified for khat.
+
+Recommendation
+The Committee reviewed the data on khat and determined that the potential
+for abuse and dependence is low. The level of abuse and threat to public
+health is not significant enough to warrant international control. Therefore,
+the Committee did not recommend the scheduling of khat.
+    The Committee recognized that social and some health problems result
+from the excessive use of khat and suggested that national educational
+campaigns should be adopted to discourage use that may lead to these
+adverse consequences.
+
+2.2.5 Zopiclone (INN)
+Substance identification
+Zopiclone (INN) is chemically 4-methyl-1-piperazinecarboxylic acid
+ester with
+6-(5-chloro-2-pyridyl)-6,7-dihydro-7-hydroxy-5H-pyrrolo-3,4-b]pyrazin-5-one.
+Zopiclone has one chiral centre and therefore
+exists in two enantiomeric forms and a racemate. It is marketed under
+many trade names. Eszopiclone is the S-(+)-enantiomer and has also
+been marketed recently.
+
+Previous review
+Zopiclone was pre-reviewed by the Committee at its twenty-ninth meeting,
+at which it recommended continued surveillance but not a critical
+review (12). Zopiclone underwent pre-review at its thirty-third meeting and
+the Committee recommended critical review based on its abuse liability and
+the significant number of adverse drug reaction reports related to abuse,
+received by the international drug monitoring programme (3).
+
+Similarity to known substances and effects on the central nervous system
+The pharmacological properties of zopiclone are very similar to those of
+benzodiazepines and are believed to be related to the binding to the
+γ-amino-butyric acid (GABA)/benzodiazepine receptor complex. Zopiclone has a
+sedative action on the central nervous system producing sedation, somno-
+lence, fatigue and impairment of concentration. Other side-effects include
+nausea, dizziness, headache, sweating, hallucinations and agitation.
+
+Dependence potential
+Zopiclone use can lead in some instances to dependence with associated
+tolerance and withdrawal syndrome.
+
+Actual abuse and/or evidence of likelihood of abuse
+Some abuse of zopiclone has been reported by six of the countries that
+responded to the WHO questionnaire. In addition, abuse has been reported
+as an adverse drug reaction to the WHO Programme for International Drug
+Monitoring. Zopiclone has also been implicated in some cases of sexual
+assault and robbery.
+
+Therapeutic usefulness
+Zopiclone is a widely prescribed hypnotic primarily used in the treatment
+of insomnia. Zopiclone was stated as being available for medical use in 34
+of the 59 countries that responded to the questions on this substance in the
+WHO questionnaire.
+
+Recommendation
+On the basis of available data concerning the pharmacological profile
+and dependence potential of zopiclone, the Committee rated the abuse
+liability to be low, whereas the therapeutic usefulness is considerable.
+The Committee therefore came to the conclusion that zopiclone does
+not warrant international control and therefore did not recommend its
+scheduling.
+
+3.1    Pre-review of psychoactive substances
+3.1.1   Gamma-hydroxybutyric acid
+Discussion
+Gamma-hydroxybutyric acid (GHB) was pre-reviewed by the
+Committee at its thirty-first meeting (13) and critically reviewed at its thirty-
+second meeting (7). It was recommended for inclusion in Schedule IV of
+the 1971 Convention and since 2001 has been placed in this Schedule by a
+decision of the United Nations Commission on Narcotic Drugs.
+         GHB is a naturally occurring compound found in very low concentrations
+in mammalian tissues. It is considered to act by binding to GHB-specific
+receptors and GABAB receptors. At pharmacological doses it acts as a central
+nervous system depressant. In some countries, GHB is used clinically
+as an anaesthetic agent and in the treatment of narcolepsy, narcolepsy with
+cataplexy, alcohol withdrawal and myoclonus-dystonia. GHB can produce
+physical dependence together with a withdrawal syndrome when the drug is
+abruptly discontinued following regular, chronic use. The withdrawal syndrome
+appears to be similar to that of other central nervous system depressants.
+GHB and related products (gamma-butyrolactone and 1,4-butane-diol)
+have been abused for their purported sexual performance-enhancing
+and growth-promoting effects as well as their euphoric effects. There have
+been reports of GHB being used to facilitate sexual assault. The toxicity
+of GHB is dose-dependent and there have been numerous instances of
+fatal and non-fatal GHB intoxication in many countries. The mode of abuse
+frequently involves other substances such as
+methylenedioxy-N-methylam-phetamine
+(MDMA) and alcohol. Use and abuse of GHB appears to occur
+mainly in Australia, Europe and the USA.
+
+Recommendation
+The Committee considered additional data regarding its abuse liability and
+toxicity and recommended that a new critical review of GHB would be
+appropriate to consider its possible rescheduling.
+
+3.1.2   Tramadol (INN)
+Discussion
+Tramadol (INN) is
+(±)-trans-2-[(dimethylamino)methyl]-1-(3-methoxy-phenyl)cyclohexanol.
+It was critically reviewed at the thirty-third meet-
+ing of the Committee in 2002, but the Committee decided that the
+information available at that time was not sufficient to recommend
+international control of tramadol, although it was adequate to
+recommend that WHO keep the drug under surveillance (3). Subsequently, the
+substance was presented by the WHO Secretariat for pre-review at the
+present meeting.
+        Tramadol is a centrally acting synthetic opioid analogue of codeine with
+a weak affinity for the opioid receptors. It has additional monoaminergic
+activity (serotonin and noradrenaline re-uptake inhibition and α2-adrenergic
+stimulation) producing a combined analgesic effect. The O-desmethyl
+metabolite is also pharmacologically active owing to significant µ-opioid
+receptor affinity. Tramadol induces analgesia, but is associated with less
+respiratory depression than other opioids and has no significant cardiac
+effects. It has been found to reduce the seizure and sweating thresholds,
+and to reduce postoperative shivering. Subjective effects include euphoria.
+Reported adverse effects have included: dizziness, headache, agitation,
+nausea, vomiting and seizures. Overdose has been reported to result in
+tachycardia, convulsions, respiratory depression and coma. Other central-
+nervous-system depressant or monoamine antidepressant compounds may
+exacerbate any toxic effects. There have been some reported instances of
+non-fatal and fatal tramadol intoxication worldwide, but these are few in
+comparison to total patient exposure.
+           Preclinical studies in animals indicated that tramadol may have a low
+abuse potential. Clinical studies and postmarketing surveillance programmes
+have found a possibility of dependence and abuse, particularly
+in patients with a previous history of opioid dependence or abuse. Post-
+marketing surveillance programmes have shown a rate of abuse of
+0.5–1 per 100 000 patients (1997–2003). This figure included generic
+products since 2002 and tramadol with paracetamol combinations during
+1997–2003.
+        Data from various monitoring organizations reported some instances of
+smuggling and diversion but did not show any increasing trend in tramadol
+abuse and there was no evidence of illicit manufacture.
+
+Recommendation
+Following review of the documents presented at the present meeting, which
+expanded the information made available at the thirty-third meeting, the
+Committee considered that, even after a recent major increase in the extent
+of its use because of its therapeutic usefulness, tramadol continues to show
+a low level of abuse. Hence, the Committee concluded that there was not
+sufficient evidence to justify a critical review.

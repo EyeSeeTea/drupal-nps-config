@@ -1,0 +1,1212 @@
+
+6.1.1 Cannabidiol
+Substance identification
+Chemically, cannabidiol (CBD) is 2-[(6R)-3-methyl-6-prop-1-en-2-ylcyclohex-
+2-en-1-yl]-5-pentylbenzene-1,3-diol. CBD is one of the naturally occurring
+cannabinoids found in cannabis plants. It is a 21-carbon terpenophenolic
+compound that is formed following decarboxylation from a cannabidiolic acid
+(CBDA) precursor, although it can also be produced synthetically. CBD has
+two stereoisomers but is normally taken to refer to the naturally occurring
+(−)-enantiomer. (+)-CBD has been synthesized but has received little attention.
+
+Chemistry
+In plants, Δ9-tetrahydrocannabinol (Δ9-THC) and CBD are derived from
+their acidic precursors Δ9- tetrahydrocannabinolic acid (THCA) and CBDA,
+respectively. Subsequent decarboxylation of THCA and CBDA via light exposure,
+heating or ageing, results in Δ9-THC or CBD. Synthetic routes are available to
+produce CBD, but some of the published methods yield only small amounts.
+There are several published methods for the analytical detection of CBD in
+various biological samples.
+
+Ease of convertibility into controlled substances
+There is some evidence that CBD can be converted in the laboratory to
+Δ9-THC, which is controlled under the 1971 United Nations Convention on
+Psychotropic Substances. The laboratory conversion of CBD to Δ9-THC results
+in a preparation of uncertain purity. There is limited in vitro evidence that this
+conversion can occur spontaneously in the presence of acid. Overall, however,
+there is no evidence that this transformation occurs in humans after oral CBD
+administration
+
+General pharmacology
+In clinical trials and research studies, CBD is generally administered orally as
+either a capsule or dissolved in an oil solution (for example, olive or sesame
+oil). Probably due to its poor solubility in water, the absorption of CBD from
+the gastrointestinal tract is erratic, and the resulting pharmacokinetic profile is
+variable. CBD is extensively metabolized in the liver and, as a result, bioavailability
+from oral delivery is estimated to be only 6%. CBD may preferentially accumulate
+in adipose tissues due to its high lipophilicity. In in vitro models, CBD has
+been shown to modify concentrations of other drugs through the inhibition of
+cytochrome P450 (CYP) isozymes, but it is not clear whether the same effects
+occur with clinical doses.
+       There are two types of cannabinoid (CB) receptors: CB1, which are primarily
+located in the central nervous system with some expression in peripheral tissues,
+and CB2, which can be found in the periphery on cells with immune function, in
+the gastrointestinal tract, and at low densities in the central nervous system. CBD
+does not appear to act directly at CB1 receptors, and most studies find no agonist
+effects at this receptor. CBD also shows low affinity at CB2 receptors.
+       In human and animal studies, CBD has been shown to have very different
+effects from those of Δ9-THC. In mice, CBD fails to produce the behavioural
+characteristics (for example, suppression of locomotor activity, hypothermia,
+antinociception) associated with CB1 activation, whereas Δ9-THC generates all
+the effects that occur when CB1 is activated. Neuroimaging studies in humans and
+animals have shown that CBD has effects that are generally opposite to those of
+Δ9-THC. In contrast to Δ9-THC, CBD does not affect heart rate or blood pressure
+under normal conditions. CBD may interact with the endocannabinoid system
+through indirect mechanisms and several non-endocannabinoid signalling
+systems as well, but it is not clear which, if any, of these other mechanisms are
+responsible for any of CBD’s potential clinical or other effects.
+
+Toxicology
+In general, CBD has been found to have low toxicity, although studies are limited
+and not all potential effects have been explored.
+
+Adverse reactions in humans
+CBD does not produce the effects that are typically seen with Δ9-THC. CBD
+has been found to be generally well tolerated with a good safety profile across
+several controlled and open-label trials investigating its potential therapeutic
+effects. Adverse events reported in clinical studies investigating the therapeutic
+possibilities of CBD have included, but have not been limited to, somnolence,
+decreased appetite, diarrhoea and fatigue.
+
+Dependence potential
+It was not possible to identify any reports on controlled studies of the physical
+dependence potential of CBD in laboratory animals or humans. Tolerance to
+CBD has not been observed.
+
+Abuse potential
+Several laboratory animal studies indicate that CBD does not produce effects
+common to many drugs of abuse, nor, more specifically, effects comparable to
+those of Δ9-THC. In particular, unlike other drugs of abuse, it does not activate
+the mesolimbic dopamine (reward) pathway in the brain or potentiate the effect
+of rewarding electrical stimulation. CBD fails to show an effect in the conditioned
+place preference model of reinforcement, and its effects do not resemble those of
+Δ9-THC in the drug discrimination model of subjective drug effects.
+       Clinical studies have shown that even high doses of oral CBD do not cause
+Δ9-THC-like effects (for example, impairment of cognitive and psychomotor
+function, increased heart rate/tachycardia and dry mouth). When evaluated in
+healthy volunteers, administration of single oral doses of up to 600 mg of CBD
+had placebo-like effects on physiological measures and on the scales of the
+Addiction Research Centre Inventory. In a randomized, double-blind, within-
+subject laboratory study in recreational cannabis users, CBD produced no
+significant psychoactive, cardiovascular or other effects at doses up to 800 mg
+orally. Overall, there is no evidence that oral CBD administration in humans
+results in clinically relevant Δ9-THC-like subjective or physiological effects. Co-
+administration of oral CBD does not affect the intensity of Δ9-THC subjective
+effects. There are no case reports of abuse or dependence relating to the use of
+CBD.
+
+Therapeutic applications, extent of therapeutic use and
+        epidemiology of medical use
+CBD is presently marketed in several countries in combination with Δ9-THC
+in a 1:1 ratio (Sativex®). CBD is in development for a variety of therapeutic
+applications including schizophrenia, fragile X syndrome, encephalopathies,
+childhood absence seizures, neonatal hypoxic–ischaemic encephalopathy and
+perinatal asphyxia. The clinical use of CBD is most advanced in the treatment of
+epilepsy. In clinical trials, CBD has demonstrated effectiveness for treating at least
+some forms of epilepsy, with one pure CBD product (Epidiolex®) found effective
+in clinical studies of Lennox-Gastaut syndrome (a severe form of epileptic
+encephalopathy that produces various types of seizures) and Dravet syndrome (a
+complex childhood epilepsy disorder that has a high mortality rate), which are
+often resistant to other forms of medication.
+       In 2015, the US FDA granted fast-track designation for intravenous CBD
+to treat neonatal hypoxic–ischaemic encephalopathy. The European Commission
+also granted orphan designation for CBD to be used in the treatment of perinatal
+asphyxia. Currently there are no other treatments available for these conditions,
+but there is evidence of the effectiveness of CBD in animal models.
+
+Listing in the WHO Model List of Essential Medicines
+Cannabidiol is not listed in the WHO EML (20th list) or the WHO Model List of
+Essential Medicines for Children (6th list).
+
+Marketing authorizations (as a medicinal product)
+One pure CBD product (Epidiolex®) was under consideration for
+registration at the time of the ECDD meeting. There are several other CBD
+products in development.
+
+Industrial use
+Pure CBD has no legitimate industrial uses.
+
+Non-medical use, abuse and dependence
+There are no case reports of abuse or dependence relating to the non-medical use
+of pure CBD. CBD-based products are, however, used for a variety of medical
+indications in preparations that are not regulated by pharmaceutical authorities.
+
+Nature and magnitude of public health problems related to
+     misuse, abuse and dependence
+No public health problems (for example, driving under the influence of drugs,
+harm to health or comorbidities) have been associated with the use of pure CBD.
+
+Licit production, consumption and international trade
+Licit production for medical research is described in section 6.11 (Marketing
+authorizations).
+
+Illicit manufacture and traffic and related information
+There are no published statistics (for example, country data on seizures of illicit
+CBD) available.
+
+Current international controls and their impact
+CBD is not explicitly specified for inclusion in the schedules of the 1961 and the
+1971 United Nations International Drug Control Conventions, nor is it included
+in the List of precursors and chemicals frequently used in the illicit manufacture
+of narcotic drugs and psychotropic substances (6) under the United Nations
+Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances
+of 1988. However, if prepared as an extract or tincture of cannabis it is controlled
+in Schedule I of the Single Convention on Narcotic Drugs, 1961.
+
+Current and past national controls
+Several countries have CBD under some form of regulatory control. However,
+some have relaxed their control in recent years, in part to make CBD more
+accessible for medical use or research.
+
+WHO review history
+A pre-review of CBD was undertaken during the thirty-ninth meeting of the
+ECDD in November 2017 following a recommendation from the thirty-eighth
+ECDD that pre-review documentation on cannabis-related substances, including
+CBD, be prepared and evaluated at a subsequent Committee meeting. Following
+its pre-review at the thirty-ninth ECDD meeting, the Committee recommended
+that extracts and preparations containing almost exclusively CBD be subject to
+critical review at the fortieth meeting of the ECDD.
+
+Recommendation
+CBD is one of the naturally occurring cannabinoids found in cannabis plants.
+There are no case reports of abuse or dependence relating to the use of pure CBD.
+No public health problems have been associated with CBD use.
+       CBD has been found to be generally well tolerated and to have a good
+safety profile. Adverse effects of CBD use include loss of appetite, diarrhoea and
+fatigue.
+       Therapeutic applications of CBD are being researched for a variety of
+clinical uses. Research in this area is most advanced in the treatment of epilepsy.
+In clinical trials, one pure CBD product has demonstrated effectiveness for
+treating some forms of epilepsy, such as Lennox-Gastaut syndrome and Dravet
+syndrome, which are often resistant to other forms of medication.
+       CBD is not specifically listed in the schedules of the 1961, 1971 or 1988
+United Nations International Drug Control Conventions. However, if prepared
+as an extract or tincture, it is controlled under Schedule I of the 1961 Single
+Convention on Narcotic Drugs.
+       There is no evidence that CBD as a substance is liable to similar abuse
+or leads to similar ill-effects to substances controlled under the 1961 or 1971
+Conventions such as cannabis or Δ9-THC, respectively.
+       The Committee recommended that preparations considered to be pure
+CBD should not be scheduled.
+
+7.1.1 Cannabis and cannabis resin
+Substance identification
+- Cannabis plant
+  The flowering or fruiting tops of the cannabis plant (excluding the seeds and
+leaves when not accompanied by the tops) from which the resin has not been
+extracted.
+- Cannabis resin
+  The separated resin, whether crude or purified, obtained from the cannabis plant.
+
+Chemistry
+Cannabis sativa (C. sativa) is one of the world’s oldest cultivated plants. Cannabis
+is an annual flowering plant, generally dioecious (i.e. with the male and female
+flowers on separate plants), although monoecious plants, where the male and
+female flowers are on the same plant, can also be found. To date, more than
+500 naturally occurring compounds have been identified in the cannabis plant,
+including cannabinoids (more than 100 chemicals unique to the plant), terpenoids
+and alkaloids. Cannabis contains a characteristic class of terpenophenolic
+secondary metabolites, named phytocannabinoids to distinguish them from
+synthetic and endogenous cannabinoids. To date, 120 phytocannabinoids have
+been recorded for C. sativa, and can be classified into 11 general types. Δ9-
+tetrahydrocannabinol (Δ9-THC) and CBD are the most important of the plant
+cannabinoids. Δ9-THC is thought to be the principal intoxicant constituent of
+C. sativa. In plants, Δ9-THC and CBD are derived from their acidic precursors
+Δ9-tetrahydrocannabinolic acid (THCA) and CBDA, respectively. Subsequent
+decarboxylation of THCA and CBDA, via light exposure, heating or ageing,
+results in Δ9-THC or CBD. Concentrations of Δ9-THC or THCA contained in
+cannabis vary across strains and across the plant itself, with resin (i.e. hashish)
+and unfertilized female flowers (i.e. sinsemilla) having higher concentrations
+than other parts such as the leaf. Once dried, the foliage and floral material are
+stripped from the stalk and twigs, which are almost devoid of cannabinoids. The
+resinous secretions of the plant, which are produced in the glandular trichomes,
+can be collected to yield a product with a higher concentration of Δ9-THC than
+occurs in the whole plant inflorescence. In addition to the secretions, cannabis
+resin consists of finer plant material and appears as a loose or pressed sticky
+powder, depending on the method of production.
+
+Ease of convertibility into controlled substances
+Not applicable.
+
+General pharmacology
+Cannabis tops and cannabis resin (i.e. hashish) are typically administered via
+inhalation after combustion (i.e. by smoking). Most of the existing research
+on the pharmacokinetics of cannabis has focused on Δ9-THC. Records from
+the United Kingdom of Great Britain and Northern Ireland and the USA show
+that average concentrations of Δ9-THC contained in cannabis plants bred for
+non-medical use have increased over time (from approximately 4% in 1995
+to approximately 12% in 2014). Some cannabis plants bred for medicinal use
+may have decreased concentrations of Δ9-THC and increased concentrations
+of CBD. Absorption of Δ9-THC in smoked cannabis is rapid, and measurable
+levels are observed in plasma within seconds after the first puff. Bioavailability
+of Δ9-THC after cannabis smoking ranges from 10 to 56%. This percentage is
+affected by dose, history of use and individual differences in physiology. It also
+depends on factors such as smoking topography and efficiency. Δ9-THC has an
+active metabolite, 11-hydroxy-Δ9-tetrahydrocannabinol (11-OH-Δ9-THC). The
+principal metabolite, 11-nor-carboxy-Δ9-THC, is inactive.
+       Body fat serves as a storage reservoir for Δ9-THC, particularly in people
+who consume the drug daily or almost daily. Among such people Δ9-THC is
+eliminated slowly from fat tissues.
+       The pharmacokinetics of CBD and other minor phytocannabinoids
+contained in the cannabis plant, including cannabinol, cannabigerol and
+tetrahydrocannabivarin, following smoking of cannabis, resemble the pattern
+observed with Δ9-THC.
+       Psychoactive effects of cannabis associated with its abuse are mediated via
+Δ9-THC interaction with the endocannabinoid system in the brain. Specifically,
+Δ9-THC is a partial agonist at CB1 receptors. Δ9-THC is also an agonist at the
+CB2 receptor, which mediates some of its peripheral effects. Cannabis/Δ9-THC
+interaction with other major neurotransmitter systems (such as dopamine,
+opioid) is mainly indirect through the interplay of these systems with the
+endocannabinoid system. The pharmacological effects of minor cannabinoids
+(for example, tetrahydrocannabivarin, cannabigerol and cannabichromene) have
+not been studied in detail.
+       A hypothesis that other cannabis plant constituents may interact with
+Δ -THC and alter its effects is referred to as the “entourage effect”. So far, no clear
+scientific support for this hypothesis with regard to Δ9-THC psychoactive effects
+has been published.
+
+Toxicology
+Most of the evidence on the toxicology of cannabis comes from observational
+population studies from which causation cannot be inferred. Cardiovascular
+effects of cannabis appear minimal or transient. Initial ingestion promotes
+tachycardia and increases blood pressure, but this subsides with tolerance and
+may even result in the opposite effects. There is limited evidence for a modestly
+increased risk of myocardial infarction associated with cannabis use. Smoking
+cannabis is linked to the typical ill-effects of smoking any substance, including
+the risk of chronic bronchitis.
+       Maternal cannabis users give birth to babies with birthweights that are on
+average 109 g lower than those born to mothers who do not use cannabis. There
+is limited evidence for a modest increase in the risk of birth defects. Impaired
+brain development, as demonstrated by poor connectivity, may contribute to the
+association between early, regular cannabis use and a decline in IQ, although the
+extent of these cognitive difficulties appears equivocal. Cannabis smoking has
+been reported to lead to a 2.5-fold increase in the risk of testicular cancer.
+
+Adverse reactions in humans
+The acute consumption of cannabis can induce euphoria, laughter and
+talkativeness, change sensory and time perception, and compromise motor
+control and judgement. It can stimulate appetite and promote dry mouth and
+dizziness. Acute cannabis use impairs certain types of cognitive function and can
+interfere with attention, learning and memory. It can also precipitate a short-
+lasting psychotic state in healthy individuals, which reverses once the effects
+of the drug have abated. Cannabis can impair driving skills and people driving
+under the influence of cannabis are 20–30% more likely to be involved in a car
+accident. Children who consume cannabis are at risk of possible respiratory
+depression, tachycardia and coma.
+       Most of the adverse effects associated with cannabis result from chronic
+use, according to data accumulated among recreational (non-medical) users.
+Chronic regular (daily or near daily) cannabis use is particularly problematic
+for young people, whose brains continue to develop into their mid-twenties.
+A modest proportion of people who initiate cannabis use in adolescence show
+decreased IQ (by as much as 8 points when cannabis is used from the ages of 13
+to 38 years). Regular cannabis use is associated with an increased risk of anxiety,
+depression and psychotic illness, and cannabis use may worsen the course of
+these disorders. Population studies report that cannabis use leads to a twofold
+increase in the risk of schizophrenia, although the majority of cannabis users
+will not develop a psychotic disorder and those who do are likely to have some
+genetic vulnerability to cannabis-induced psychosis. Regular cannabis use may
+be associated with poor school performance, lower income, increased likelihood
+of requiring socioeconomic assistance, unemployment, criminal behaviour and
+decreased satisfaction with life.
+
+Dependence potential
+The number of studies investigating physical dependence potential in laboratory
+animals is limited. When exposed to cannabis smoke, mice and rats can be made
+physically dependent, and withdrawal effects can be reversed by intravenous
+administration of Δ9-THC. However, rhesus monkeys exposed to cannabis
+smoke once daily or twice weekly for one year did not show behavioural signs of
+withdrawal upon abrupt termination.
+        Human users of cannabis can become physically dependent, and clinical
+diagnostic manuals such as the Diagnostic and Statistical Manual of Mental
+Disorders, fifth edition (DSM-5) and the International Classification of Diseases,
+tenth revision (ICD-10) recognize the existence of a cannabis use disorder. It is
+estimated that the percentage of regular cannabis users who have experienced at
+least one episode of cannabis withdrawal during abstinence ranges from 16 to
+33%. The onset of withdrawal typically occurs within 24 to 48 hours of abstinence
+following a period of regular use, with peak intensity usually occurring 2 to 6 days
+after last use. The withdrawal syndrome may include mood changes, irritability,
+increased anger, anxiety, craving, restlessness, sleep impairment, stomach pain
+and decreased appetite.
+
+Abuse potential
+Preclinical research on cannabis smoke has been limited. Mice exposed to cannabis
+smoke show typical effects of Δ9-THC including catalepsy, antinociception,
+hypothermia and hypolocomotion, and these effects can be antagonized by the
+CB1 receptor antagonist, rimonabant.
+       In humans, self-reported subjective effects associated with smoked
+cannabis in laboratory studies include dose-dependent increases in ratings
+of “drug effect”, “high” or “stoned”. The reinforcing effects of smoked cannabis
+have been demonstrated in several laboratory-based self-administration studies
+with smoked cannabis being readily self-administered by experienced users.
+Similar effects are produced by Δ9-THC alone when administered orally or when
+smoked. Increases in the intensity of self-reported subjective effects of cannabis
+(for example, “high” or “stoned”) are associated with increasing concentrations
+of Δ9-THC.
+
+Therapeutic applications, extent of therapeutic use and
+        epidemiology of medical use
+Several countries have laws on medicinal cannabis in effect. An international
+survey of 953 medicinal cannabis users from 31 countries found that most of
+them were current users under the care of a health professional and had been
+using cannabis-based medications for several years. The five medical conditions
+for which cannabis and cannabis-based medications were most often used as a
+treatment in this survey were back pain, sleep disorders, depression, post-injury
+pain and multiple sclerosis.
+       Research on the potential medical applications of cannabis is ongoing. The
+results of randomized controlled trials (RCTs) show that smoked cannabis can
+enhance weight gain in HIV patients (1 RCT) and treat neuropathic pain (3 RCTs).
+Inhaled aerosolized cannabis leads to dose-dependent reductions in spontaneous
+pain ratings among patients with treatment-refractory pain due to diabetic
+peripheral neuropathy. Two open-label, uncontrolled, observational studies of
+smoked cannabis or vaporized cannabis reported significantly decreased motor
+disability and pain scores in patients with Parkinson’s disease.
+
+Listing on the WHO Model List of Essential Medicines
+Cannabis plant and cannabis resin are not included in the WHO EML (20th list)
+or the WHO Model List of Essential Medicines for Children (6th list).
+
+Marketing authorizations (as a medicinal product)
+Bedrocan Cannabis has been granted marketing authorization in the Netherlands
+to produce five standardized plant varieties (whole dried flower) that are available
+to patients under direct physician care. Cannabis for both medicinal and research
+use is available in several countries.
+
+Industrial use
+Low potency (0.2–0.3% Δ9-THC) cannabis plants (hemp) are cultivated to
+produce paper, textiles, rope or twine, and construction materials based on fibre
+from stalks. Grain from industrial hemp is used in food products, cosmetics,
+plastics and fuel. Cannabis plants grown for these purposes are excluded from
+control under the 1961 Convention.
+
+Non-medical use, abuse and dependence
+Non-medical cannabis use is global, with an estimated prevalence of 3.8% in 2015,
+which means more than 183 million adults used cannabis in that year. Prevalence
+can vary widely across countries, from less than 1% to over 38%. The estimates of
+the risk of developing cannabis use disorder among users vary among studies and
+countries, but it appears that 1 in 10 or 1 in 11 is a representative figure.
+
+Nature and magnitude of public health problems related to
+     misuse, abuse and dependence
+The global burden of disease attributable to cannabis use disorder, expressed in
+disability-adjusted life years (DALYs) (one DALY represents one year of life lost
+either due to premature mortality or due to living with disability) was 646 480
+DALYs in 2016. Driving under the influence of cannabis increases the risk of
+accidents and is therefore a public health threat.
+
+Licit production, consumption and international trade
+This is addressed under Section 7.11 (Marketing authorizations (as a medicinal
+product)).
+
+Illicit manufacture and traffic and related information
+Cannabis is the most widely illicitly produced drug worldwide, cultivated in at
+least 135 countries covering 92% of the global population. Cannabis seizures
+made up 53% of all drug seizures worldwide in 2015.
+
+Current international controls and their impact
+Cannabis, cannabis resin, extracts and tinctures of cannabis are grouped together
+in Schedule I of the 1961 United Nations Single Convention on Narcotic Drugs.
+Cannabis plants and resin are also under Schedule IV of this Convention, which
+contains substances that are particularly liable to abuse and to produce ill-effects
+and do not have therapeutic advantages that offset these effects.
+
+Current and past national controls
+Cannabis, including plants and resin, is controlled in most WHO Member States.
+A growing number of countries, however, have endorsed regulations enabling
+the medical use of cannabis plants to relieve the symptoms of specific medical
+conditions. The European Medicines Agency has stated that the use of cannabis
+as medicine must follow the laws of each member.
+
+WHO review history
+Cannabis and cannabis resin have not previously been formally reviewed by the
+ECDD.
+
+Recommendation
+Cannabis is defined as the flowering tops or separated resin of the C. sativa plant.
+Cannabis contains 121 reported phytocannabinoids, the most prominent being
+Δ9-THC and CBD. Δ9-THC is thought to be the principal intoxicant constituent
+of cannabis.
+        When used acutely, cannabis causes adverse effects such as dizziness and
+impairment of motor control and cognitive function. Cannabis use can impair
+driving. There are particular risks reported for children, such as respiratory
+depression, tachycardia and coma. The adverse effects of cannabis consumption
+are similar to those produced by Δ9-THC alone.
+        Most of the adverse effects associated with cannabis result from chronic
+use. Regular cannabis use is associated with increased risk of mental health
+disorders such as anxiety, depression and psychotic illness. Chronic regular
+cannabis use is particularly problematic for young people as a result of its effects
+on the developing brain.
+        Cannabis can cause physical dependence in humans as evidenced by the
+onset of cannabis withdrawal symptoms upon abstinence. Withdrawal symptoms
+include mood changes, irritability and sleep impairment. Clinical diagnostic
+guidelines such as DSM-5 and ICD-10 recognize cannabis use disorder.
+        The Committee considered information regarding the therapeutic
+indications of cannabis and ongoing research into its possible medical
+applications. Several countries permit the use of cannabis for the treatment of
+medical conditions such as back pain, sleep disorders, depression, post-injury
+pain and multiple sclerosis.
+        Cannabis plant and cannabis resin are included in Schedule I and Schedule
+IV of the 1961 Single Convention on Narcotic Drugs. Substances that are included
+in both these schedules are particularly liable to abuse and to produce ill-effects.
+Other substances that are included in both Schedules I and IV are fentanyl
+analogues and other opioids that are considered especially dangerous.
+        The evidence presented to the Committee did not indicate that cannabis
+plant and cannabis resin were liable to produce ill-effects similar to the other
+substances in Schedule IV of the 1961 Convention on Narcotic Drugs. The
+inclusion of cannabis and cannabis resin in Schedule IV may not be consistent
+with the criteria for inclusion in Schedule IV.
+        The Committee concluded that there is sufficient evidence to recommend
+a critical review of cannabis plant and cannabis resin at a future ECDD meeting
+and to explore further the appropriateness of their current scheduling within the
+1961 Convention.
+
+8.1.1 Extracts and tinctures of cannabis
+Substance identification
+Extracts and tinctures of cannabis are preparations that have been extracted
+from the leaves and flowers of C. sativa. They include oils, rosin, distillates and
+pharmaceutical products containing a mixture of Δ9-THC and CBD.
+
+Chemistry
+Cannabis extracts
+         There are several methods for preparing the different cannabis extracts (i.e.
+extract mixtures from the leaves and flowers of C. sativa). These include:
+        ■■ Supercritical carbon dioxide (CO2) extraction
+		 Cannabis inflorescence is treated with supercritical CO2, which is
+   highly pressurized liquid CO2. The extract is separated from the CO2
+   that is recovered and passed back through the cannabis inflorescence
+   several times until the extraction process is complete. The most sig-
+   nificant advantage of CO2 extraction is that it leaves no harmful resi-
+   dues in the resulting product.
+  ■■ Butane hash oil (BHO)
+		 BHO is a resinous, nonpolar extract of cannabis inflorescence made
+     using butane as a solvent, which is eventually purged under vacuum
+     at room temperature. The final extract can contain from 50 to 90% of
+     the active ingredient, either (−)-trans-delta-9-tetrahydrocannabinol
+     (Δ9- THC) or CBD. The terpene content ranges from 0.1 to 34%, but
+     this can be increased by dipping BHO in a vial of terpenes prior to
+     use (“terpene dipping”).
+  ■■ Propane hash oil (PHO)
+		 PHO is similar to BHO, but it uses propane as the solvent.
+  ■■ Rosin
+		 The rosin method exploits heat and pressure to squeeze a resinous
+     product from the plant material. Industrial-sized presses capable
+     of processing large amounts of hashish oil within seconds are
+     available. As no solvent is used in the process, it is not an extract or
+             tincture according to the usual definitions, but is included here for
+             completeness.
+ ■■ Distillates
+		 Distillates are concentrated extracts of cannabis inflorescence
+    through which a specific solvent passes and collects cannabinoids
+    and terpenes.
+  ■■ Other organic extracts
+		 Other hydrocarbon solvents that can be employed for cannabis
+     extraction include chloroform and hexane. Oils such as olive oil or
+     sesame oil may also be used.
+
+Tinctures of cannabis
+The tinctures of cannabis are extracts of the flowering tops or other parts of C.
+sativa where alcohol (ethanol) is used as the solvent. Ethanol is a very effective
+solvent for the extraction of most of the substances contained in cannabis
+inflorescences. It has a high extraction efficiency and is more effective than water
+and hydrocarbon solvents (for example, hexane).
+  ■■ Cannabis oils
+		 Cannabis oils may contain Δ9-THC and other cannabinoids obtained
+     using a method of extraction as described above. However, some oils,
+     such as essential oil and hemp seed oil, do not contain significant
+     concentrations of Δ9-THC. Medicinal cannabis oil is an extraction of
+     C. sativa typically made with olive oil or sesame oil, which is used in
+     pharmacy for the preparation of medicinal extracts.
+  ■■ Aqueous extracts
+		 An aqueous extract of C. sativa is often referred to as a tea. The use
+     of boiling water is a simple and probably one of the oldest methods
+     for preparing a cannabis extract for oral administration. The amount
+     of Δ9-THC extracted using this method is only a fraction of that
+     obtainable using other extraction methods. To compensate for the
+     low solubility of Δ9-THC in water, users of tea often add a small
+     amount of vegetable oil or butter and increase boiling time.
+  ■■ CBD in preparations with other cannabis-related ingredients.
+		 Sativex® is a pharmaceutical formulation manufactured in the United
+     Kingdom of Great Britain and Northern Ireland by incorporating
+     purified botanically derived drug substances containing an accurately
+   measured 1:1 ratio of Δ9-THC and CBD into a final product containing
+   ethanol, propylene glycol and peppermint oil as excipients. Sativex®
+   is in the form of an oromucosal spray approved for treating spasticity
+   in patients with multiple sclerosis. Each 0.1 mL spray contains 2.7
+   mg of Δ9-THC and 2.5 mg of CBD. Two cannabis plant strains are
+   grown under regulated glasshouse conditions, principally producing
+   Δ9-THC and CBD. The dried plant material, including the foliage and
+   inflorescence, is uniformly heated to decarboxylate the precursors,
+   THCA and CBDA, to Δ9-THC and CBD, respectively. The plant
+   material is then extracted by supercritical liquid CO2 extraction to
+   obtain the two soft extracts with trade names Tetranabinex (>90%
+   Δ9-THC) and Nabidiolex (>85% CBD).
+		 One or more of a variety of methods can be used for detection of the
+   presence of cannabinoids in these substances. These methods include
+   colour tests, thin-layer chromatography, gas chromatography, liquid
+   chromatography, nuclear magnetic resonance and immunoassay.
+
+Ease of convertibility into controlled substances
+Not applicable.
+
+General pharmacology
+In humans, cannabis extracts may be delivered through various routes of
+administration, including sublingual, oral, inhalation (smoking or vaping), rectal
+and transdermal. “Dosage” of cannabis extracts most often refers to the amount
+of Δ9-THC contained in the preparation. Tinctures are usually administered
+sublingually or used to infuse edibles or beverages (i.e. oral administration). Oils
+may be incorporated into food or beverages for oral administration or may be
+vaped or “dabbed”. Sativex® is formulated into an oromucosal spray.
+       In the few studies that have been done, pharmacokinetic profiles of vaped
+versus smoked cannabis/cannabis extracts appear to be similar. Absorption of
+Δ9-THC from inhalation is rapid and measurable levels are observed in plasma
+within seconds after the first puff. While peak plasma levels typically occur within
+3–10 minutes after smoking, peak “highs” do not occur until 20–30 minutes
+after smoking. Absorption of Δ9-THC following oral ingestion is slower and
+maximal plasma levels are lower, typically resulting in flatter concentration–time
+curves. The pharmacokinetics of CBD and Δ9-THC in Sativex® are similar. The
+metabolism of Δ9-THC and CBD is described elsewhere in this report.
+       To date, more than 500 naturally occurring compounds have been
+identified in cannabis, including cannabinoids (more than 100 chemicals unique
+to the plant), terpenoids and alkaloids. However, except for Δ9-THC and CBD
+(in some plants), most of these compounds are present in the plant in relatively
+small quantities. In addition, the extraction process is designed to concentrate
+the desired constituents (usually Δ9-THC and/or CBD). Hence, the degree to
+which other compounds may contribute to the array of pharmacological and
+behavioural effects produced by cannabis extracts is largely unknown. However,
+because many extracts that may be used for smoking or vapour inhalation
+contain high concentrations of THC, there is the potential for relatively strong
+and immediate effects of Δ9-THC.
+
+Toxicology
+Little information is available on the toxicology of cannabis extracts, tinctures,
+oils and tea. The toxicity produced by Δ9-THC-rich cannabis extracts, tinctures,
+oils and tea are similar to those observed with Δ9-THC, but, as noted above, the
+effects may be more pronounced with greater risk of adverse effects when extracts
+with high Δ9-THC concentrations are inhaled.
+        Depending on the method used, cannabis extract may contain residual
+solvents (naphtha, isopropanol, acetone, hexane, ethyl alcohol or butane) that are
+harmful if ingested by the user. Some are found to contain contaminants such as
+pesticides. Thinning agents such as propylene glycol and polyethylene glycol 400
+(used to allow smooth flow of viscous cannabis oils from cartridges) can produce
+high concentrations of toxic acetaldehyde and formaldehyde when heated in
+certain devices. In addition, terpenes can be converted to the toxic degradants
+methacrolein (an irritant) and benzene (a carcinogen).
+        Sativex® appears not to be mutagenic, carcinogenic or teratogenic.
+
+Adverse reactions in humans
+Adverse reactions to Δ9-THC-rich cannabis extracts, tinctures, oils and tea are
+similar to those observed with Δ9-THC, but, as noted above, the effects may be
+more pronounced with greater risk of adverse effects when extracts with high Δ9-
+THC concentrations are inhaled.
+       Common adverse effects of Sativex® are mild to moderate dizziness and
+fatigue. Other common side-effects are nausea and vomiting, hypotension,
+somnolence, disturbance of attention, confusion, asthenia (weakness), dry
+mouth, diarrhoea, anxiety and headache. Transient adverse effects such as
+increased heart rate and blood pressure, disorientation, depression, euphoria,
+transient psychotic reactions and dissociation have also been reported. In rare
+instances, oromucosal sprays may cause pain, discomfort, distorted taste, mouth
+ulceration and glossodynia (burning sensation in the mouth and tongue). There
+are no reported cases of driving under the influence of Sativex®.
+
+Dependence potential
+There are no published scientific studies that have evaluated the dependence
+potential of pure cannabis extracts or Sativex® in laboratory animals. However, the
+psychoactive constituent, Δ9-THC, present in most extracts, has been separately
+examined and shown to have dependence potential. Frequent BHO use among
+cannabis users has been associated with physical dependence and perceived
+impaired control over cannabis use.
+       The dependence potential of Sativex® has not been evaluated in humans.
+However, there is limited evidence of a withdrawal syndrome associated with
+Sativex® treatment. When a mistake in a trial led to a 2-week period of abstinence,
+44% of participants experienced one or more signs associated with withdrawal
+(for example, sleep disruption, appetite changes, mood changes or vivid dreams).
+
+Abuse potential
+There are few published reports of studies that have evaluated the abuse potential
+of cannabis extracts in animals. When injected and when inhaled via modified
+e-cigarette apparatus, cannabis extract produced Δ9-THC-like behavioural effects
+in rodents. In one study, when cannabis extract was inhaled via a vaporizer, it
+produced place preference in a conditioned place preference procedure. There is
+evidence from animal studies indicating the abuse potential of Δ9-THC as a pure
+substance whereas CBD does not have abuse potential.
+       Vaping and smoking routes are known to produce rapid psychoactive effects.
+However, the abuse potential of high-potency cannabis extracts administered via
+vaporizing has not been studied in humans. In drug-naive healthy volunteers, an
+orally administered cannabis extract containing a 2:1 ratio of Δ9-THC to CBD
+induced fatigue, drowsiness, dizziness and feeling “high”.
+       A clinical trial to evaluate the abuse potential of Sativex® in recreational
+cannabis users showed that high doses (21.6 or 43.2 mg) of Δ9-THC induced
+cannabis-like effects, but this did not occur at a lower dose. Abuse has not been
+reported in post-market surveillance of Sativex®. However, euphoria has been
+reported as an adverse effect of Sativex®.
+
+Therapeutic applications, extent of therapeutic use and
+        epidemiology of medical use
+Sativex® is being investigated for a variety of indications including, but not
+limited to, treatment of spasticity due to multiple sclerosis, chronic pain, anxiety
+disorder, cannabis use disorder, attention-deficit/hyperactivity disorder, and
+depression and sleep disorders.
+
+Listing on the WHO Model List of Essential Medicines
+Cannabis extracts and tinctures are not listed on the WHO EML (20th list) or the
+WHO Model List of Essential Medicines for Children (6th list).
+
+Marketing authorizations (as a medicinal product)
+Sativex® has been granted marketing authorization for treatment of spasticity due
+to multiple sclerosis in at least 20 countries.
+
+Industrial use
+Cannabis extracts and tinctures have no known industrial uses.
+
+Non-medical use, abuse and dependence
+Worldwide, cannabis is mainly used in the forms of herbs and resins for
+recreational (non-medical) purposes or self-medication; extracts and tinctures
+are thought to play a smaller role.
+       A global online survey in several countries reported that 7% of the past-
+year cannabis users had used BHO. Two surveys conducted in the USA found
+rates of vaporization of cannabis oil and wax of 15.5% and 10.2% among lifetime
+cannabis users and 22.9% and 14.8% among those with lifetime e-cigarette use,
+respectively. An additional study in the USA found that among past-year cannabis
+users, 44% (n = 121) had used BHO in the previous 12 months and that frequent
+BHO use was associated with higher levels of physical dependence. There are no
+reports of misuse of pharmaceutical products containing a mixture of Δ9-THC
+and CBD.
+
+Nature and magnitude of public health problems related to
+     misuse, abuse and dependence
+The public health problems related to the use of cannabis extracts and tinctures
+are difficult to assess, in part because existing reports rarely specify the form of
+cannabis used. There is some evidence linking the use of butane cannabis oil
+to dependence. The risk of burns has been reported during the preparation of
+extracts where solvents are used.
+
+Licit production, consumption and international trade
+Licit production is important for medical research into the therapeutic potential
+of cannabis preparations.
+
+Illicit manufacture and traffic and related information
+There is evidence of the illicit marketing of cannabis extracts and tinctures for
+recreational (non-medical) uses through online pharmacies. Cannabis extracts
+are extensively described on Internet forums and are offered for sale via the
+Internet.
+
+Current international controls and their impact
+Cannabis extracts and tinctures of cannabis are listed in Schedule I of the Single
+Convention on Narcotic Drugs, 1961.
+
+Current and past national controls
+Cannabis, including its extracts and tinctures, is controlled in most Member
+States. A growing number of countries, however, have adopted regulations that
+enable the medical use of cannabis extracts and tinctures to relieve the symptoms
+of specific medical conditions.
+
+WHO review history
+Cannabis extracts and tinctures have never been formally reviewed by the ECDD.
+
+Recommendation
+Extracts and tinctures of cannabis are substances that have been extracted
+from the C. sativa plant. They include cannabis oils, teas and an extract with
+approximately equal quantities of Δ9-THC and CBD. These substances can be
+administered through various routes including orally and by smoke inhalation.
+      Evidence on the dependence potential of extracts and tinctures of
+cannabis varies by substance. There are no published studies that have evaluated
+the dependence potential of mixtures of Δ9-THC and CBD, but there is limited
+evidence of a withdrawal syndrome upon abrupt cessation (for example, sleep
+disruption and mood changes). Frequent use of the BHO extract has been
+associated with physical dependence. The psychoactive constituent, Δ9-THC,
+present in most extracts has been separately studied and has been shown to have
+dependence potential.
+      Few published studies have evaluated the abuse potential of cannabis
+extracts in animals or humans. There are, however, studies that have investigated
+the abuse potential of various components of extracts and tinctures of cannabis.
+While particular components, such as Δ9-THC, have demonstrated abuse
+potential, other components in these preparations, such as CBD, have not.
+       The Committee recognized that the term “extracts and tinctures” as cited
+in the 1961 Single Convention on Narcotic Drugs encompasses preparations
+that have psychoactive properties as well as those that do not. The Committee
+also recognized that the psychoactive properties of these preparations are due
+principally to Δ9-THC, which is currently scheduled in the 1971 Convention on
+Psychotropic Substances. Among the substances that are not psychoactive in the
+preparations that are derived as extracts or tinctures of cannabis are some that
+have promising therapeutic indications, such as CBD.
+       Cannabis extracts and tinctures are placed in Schedule I of the 1961 Single
+Convention on Narcotic Drugs. The Committee noted that the category “extract
+and tinctures of cannabis” encompasses very diverse formulations with varying
+ratios of cannabis components, in particular Δ9-THC, and with or without
+psychoactive properties.
+       The Committee therefore concluded that there is sufficient information
+to recommend a critical review of extracts and tinctures of cannabis at a future
+ECDD meeting to address the necessity of continuing to include the term “extracts
+and tinctures of cannabis” in the 1961 Convention.
+
+9.1.1 Delta-9-tetrahydrocannabinol (Δ9-THC; dronabinol)
+Substance identification
+Delta-9-tetrahydrocannabinol (Δ9-THC; dronabinol) refers to the following four
+stereoisomers:
+       a.   (−)-trans-Δ9-tetrahydrocannabinol (also known as dronabinol)
+       b.   (+)-trans-Δ9-tetrahydrocannabinol
+       c.   (−)-cis-Δ9-tetrahydrocannabinol
+       d.   (+)-cis- Δ9-tetrahydrocannabinol
+The stereoisomer (−)-trans-Δ9-THC is the only one that occurs naturally in the
+cannabis plant and is generally the only stereoisomer that has been studied.
+Dronabinol is the International Nonproprietary Name (INN) for this isomer.
+Where the term “Δ9-THC” is used in this report without further specification,
+it refers to (−)-trans-Δ9-THC or dronabinol. If reference is made to a different
+isomer, this is explicitly specified.
+
+Chemistry
+(−)-Trans-Δ9-THC does not occur at a significant concentration in cannabis
+plants. The plant synthesizes primarily the carboxylic acid form of (−)-trans-Δ9-
+THC, namely, Δ9-tetrahydrocannabinolic acid (THCA) from cannabigerolic acid
+and this substance accumulates in the glandular trichomes of flowers and leaves.
+THCA is thermally unstable and can be quickly decarboxylated to (−)-trans-
+Δ9-THC when exposed to heat via smoking or baking; this conversion can also
+occur spontaneously during storage. (−)-Trans-Δ9-THC can be extracted from
+the plant after it has been heated; THCA can be extracted from the plant and
+then converted to (−)-trans-Δ9-THC; or it can be synthesized from terpene and
+olivetol.
+       Synthetic methods for the other isomers have been reported.
+       Several analytical methods are available for the measurement of (−)-trans-
+Δ9-THC in different matrices such as cannabis plant, cannabis extracts and
+biological fluids. These are mostly chromatographic methods coupled to detection
+techniques such as ultraviolet and mass spectrometry.
+
+Ease of convertibility into controlled substances
+The only controlled substance that (−)-trans-Δ9-THC can be converted into is its
+isomer (−)-trans- Δ8-THC, which is in Schedule I of the 1971 Convention.
+
+General pharmacology
+Δ -THC is highly lipophilic and animal studies have found that it is readily
+absorbed and distributed to the brain and other organs following various
+routes of administration. These include the intraperitoneal, oral, intramuscular,
+intravenous and inhalation routes. In humans, the predominant route of
+administration of pure Δ9-THC is oral. The stereochemical variants of Δ9-THC
+are not routinely administered.
+       Compared to absorption of Δ9-THC in smoked cannabis, maximal
+plasma levels after oral administration are lower, typically resulting in flatter
+concentration–time curves. Peak plasma levels usually occur 60–120 minutes after
+ingestion although delays of up to 4–6 hours have also been reported. Estimated
+bioavailability averages 6%, with considerable variability among individuals.
+Ingestion is accompanied by significant first-pass metabolism in the liver, further
+decreasing the amount of Δ9-THC that reaches sites of action. Δ9-THC is strongly
+bound to plasma proteins and is readily distributed to highly vascularized tissues
+(for example, the liver, heart and lungs) after absorption.
+       Metabolism of orally administered Δ9-THC occurs primarily in the liver
+and is extensive, with almost 100 metabolites having been identified. 11-hydroxy-
+Δ9-tetrahydrocannabinol (11-OH-Δ9-THC) is an active metabolite. Owing to
+its extensive metabolism, relatively little Δ9-THC is eliminated from the body
+unchanged. Δ9-THC is excreted primarily in the faeces (65–80%) and in the urine
+(20–35%).
+       When administered to animals, Δ9-THC produces a characteristic profile
+of pharmacological effects. These include:
+         ■■ a tetrad of effects – locomotor suppression, antinociception, hypo-
+            thermia and catalepsy – in mice and rats;
+         ■■ discriminative stimulus effects in rats, mice, pigeons and rhesus
+            monkeys;
+         ■■ reinforcing effects in squirrel monkeys; and
+         ■■ static ataxia in dogs.
+      These cannabimimetic effects are produced through interaction with an
+endogenous cannabinoid system that includes two cannabinoid receptors, CB1
+and CB2. CB1 receptors are widespread and abundant in the brain and periphery,
+CB2 receptors are confined primarily to the periphery. The psychoactive effects of
+Δ9-THC are mediated via activation of CB1 receptors in the brain.
+      The limited information on the pharmacology of the stereochemical
+variants of (–)-trans-Δ9-THC suggests that they have little activity. (–)-Trans-Δ9-
+THC was at least tenfold more potent in the dog static ataxia model than (+)-cis-
+Δ9-THC or (+)-trans-Δ9-THC, neither of which produced the full syndrome of
+cannabinoid effects at the highest dose administered. In addition, (–)-trans-Δ9-
+THC exhibited a tenfold greater hypothermic effect in mice and was 100-fold
+more potent at decreasing schedule-controlled responding in rhesus monkeys
+than (+)-Δ9-THC.
+
+Toxicology
+Δ -THC has very low potential to produce lethal effects. Following oral
+administration, the median lethal dose (LD50) is 800 mg/kg in rats, up to
+3000 mg/kg in dogs and up to 9000 mg/kg in monkeys. It has been calculated
+that a lethal dose for a 70-kg human would be approximately 4 g and that such
+a dose would not typically be achieved in a human following oral consumption,
+smoking or vaporizing the substance.
+       Acute Δ9-THC exposure in humans produces tachycardia with an average
+increase in heart rate of eight beats per minute. Tolerance may occur to these
+effects, and decreases in blood pressure and heart rate may occur with subsequent
+exposures. Δ9-THC is a bronchodilator. In vitro and in vivo animal studies
+demonstrate that high doses of Δ9-THC can modulate the immune system in
+complex ways. In two human studies using low-dose Δ9-THC no significant
+effects on the immune system were observed.
+       According to a comprehensive assessment by the US National Toxicology
+Program, Δ9-THC does not have mutagenic or carcinogenic effects. Oral
+administration of Δ9-THC to rats for 77 days reduced the size of the seminal
+vesicles, seminal fluid volume, spermatogenesis and the number of Leydig cells
+in the testis. However, sperm count, mating success and testosterone levels were
+not affected. No data are available on teratogenicity in humans. In animal studies,
+administration of Δ9-THC during gestation promotes a slight decrease in fetal
+weight. It crosses the placental barrier and is secreted in the mother’s milk.
+       In a randomized controlled trial with 329 multiple sclerosis patients,
+following daily administration of Δ9-THC at doses of up to 28 mg/day for three
+years, low to moderate toxicity and a low incidence of other adverse effects were
+reported. There were no differences in the median number of adverse events
+between the placebo and Δ9-THC-treated groups. Δ9-THC-treated patients
+experienced more dizziness and light-headedness as well as dissociative thinking
+and perception disorders.
+
+Adverse reactions in humans
+In humans, Δ9-THC has very similar pharmacological and subjective effects to
+those of cannabis. Users may exhibit euphoria, laughter and increased loquacity.
+Δ9-THC increases appetite, promotes dry mouth and occasional dizziness, and
+produces apparent enhancement of visual, olfactory and auditory perceptions.
+Exposure to Δ9-THC may also cause nausea and vomiting in some users.
+Following repeated exposure, users generally develop tolerance to the effects of
+Δ9 THC. Δ9-THC exposure can cause subtle cognitive deficits such as impairment
+of attention and short-term memory. Higher doses of Δ9-THC are associated
+with anxiety, panic, confusion and disorientation in some users. Δ9-THC can
+also provoke transient psychosis-like psychological phenomena in some healthy
+participants.
+       Oral Δ9-THC is reported to cause impairment of driving skills in both
+driving simulators and on roads. Doses of 10 and 20 mg of Δ9-THC increased
+standard deviation of lateral position – indicative of loss of road tracking control
+– and time taken to adapt speed – indicative of increased reaction times.
+
+Dependence potential
+Rapid and profound tolerance develops to numerous acute effects of Δ9-THC
+following chronic administration to animals. Chronic administration of Δ9-
+THC can induce physical dependence in laboratory animals as evidenced by
+withdrawal effects that can emerge spontaneously or be precipitated by the
+cannabinoid receptor antagonist, rimonabant.
+       Two studies in humans have demonstrated the development of tolerance
+to the self-reported effects of Δ9-THC. These studies also reported withdrawal
+effects indicative of physical dependence. The symptoms of withdrawal that were
+observed included hyperactivity, increased salivation, irritability, marked changes
+in sleep patterns and restlessness. In one study, sleep disruption was found to
+persist for up to seven nights. Most withdrawal symptoms were alleviated within
+96 hours or immediately if participants re-administered Δ9-THC.
+
+Abuse potential
+One laboratory reported the successful intravenous self-administration
+of Δ9-THC in squirrel monkeys, the rates of which were attenuated by the
+administration of rimonabant. Several other laboratories have failed to establish
+the self-administration of Δ9-THC in animals.
+       Δ9-THC has clear discriminative effects in several species, including
+rats, rhesus monkeys, mice and pigeons. Δ9-THC-like discriminative effects
+are produced by other cannabinoids or cannabis preparations that have been
+reported to be cannabis-like in humans, including Δ8-THC, cannabinol, hashish,
+CP55,940, WIN55,212-2, and an array of abused synthetic cannabinoids (for
+example, JWH-018, XLR-11, UR-144, AB-CHMINACA). CBD, however, does
+not produce such effects.
+       Oral administration of Δ9-THC produces subjective effects that resemble
+those of cannabis. Humans readily distinguish the effects of oral Δ9-THC as being
+cannabis-like and as different from alcohol or d-amphetamine. Furthermore,
+when orally administered or smoked Δ9-THC is compared directly to cannabis
+administered via the same route, both Δ9-THC and cannabis produce a similar
+profile of subjective effects including increased feelings of “drug effect”, experience
+of a “drug high” and increased ratings of cannabis-like effects.
+       In controlled laboratory settings, oral self-administration of Δ9-THC has
+been demonstrated; however, results suggest that it is a weak reinforcer at best. A
+multi-method review revealed little evidence that oral Δ9-THC is used for non-
+medical purposes.
+
+Therapeutic applications and extent of therapeutic use and
+        epidemiology of medical use
+Δ9-THC or dronabinol has approval in a number of countries for indications
+including anorexia associated with weight loss in patients with acquired
+immunodeficiency syndrome (AIDS) and for nausea and vomiting associated
+with cancer chemotherapy in patients who do not gain adequate relief from
+conventional antiemetic treatment.
+       Δ9-THC has been explored for other indications. For example, it has
+demonstrated at least partial effectiveness in decreasing neuropathic pain,
+reducing anxiety in patients with chronic pain, increasing weight gain in
+patients with anorexia nervosa, decreasing pain intensity and increasing patient
+satisfaction when given as an adjunct to opioids for chronic pain, reducing
+spasticity in patients with multiple sclerosis, and for improving tics (or a trend
+towards such improvement) in patients with Tourette syndrome.
+
+Listing on the WHO Model List of Essential Medicines
+Δ9-THC (dronabinol) is not listed on the WHO EML (20th list) or the WHO
+Model List of Essential Medicines for Children (6th list).
+
+Marketing authorizations (as a medicinal product)
+Dronabinol (Marinol®) is supplied as round, soft gelatine capsules for oral use
+(AbbVie, Inc.), and Syndros is supplied as an oral solution (INSYS Therapeutics,
+Inc.).
+
+Industrial use
+Δ9-THC has no legitimate industrial uses.
+
+Non-medical use, abuse and dependence
+Δ9-THC does not appear to be abused. A multi-method review revealed
+little evidence that its oral formulation was used for non-medical purposes.
+Phenomena such as “doctor-shopping” or “script-chasing” (i.e. obtaining multiple
+prescriptions from multiple doctors for the same substance) are not common.
+
+Nature and magnitude of public health problems related to
+     misuse, abuse and dependence
+Δ9-THC does not appear to have caused a public health problem related to misuse,
+abuse or dependence. See section 9.13.
+
+Licit production, consumption and international trade
+Licit production and trade occur with the medicinal products mentioned in 9.11
+(Marketing authorizations).
+
+Illicit manufacture and traffic and related information
+There are no data on the illicit manufacture of pure Δ9-THC.
+
+Current international controls and their impact
+Dronabinol, the INN of (−)-trans-Δ9-THC, and its stereochemical variants are
+included in Schedule II of the Convention on Psychotropic Substances of 1971.
+
+Current and past national controls
+Dronabinol is presumed to be controlled in all WHO Member States, except
+Uruguay where the production, sale and use of cannabis for medical or non-
+medical purposes was legalized in 2016.
+
+WHO review history
+Δ9-Tetrahydrocannabinol (Δ9-THC) and its stereochemical variants, with one
+variant being dronabinol ((−)-trans-Δ9-THC), are currently listed in Schedule
+II of the 1971 Convention on Psychotropic Substances. Δ9-THC was originally
+included in Schedule I of the 1971 Convention at the time of its adoption, together
+with its stereochemical variants.
+         ■■ In 1989, the WHO ECDD recommended, based on the critical review
+            of dronabinol ((−)-trans-Δ9-THC) undertaken at its twenty-sixth
+            meeting in 1988, that dronabinol be moved to Schedule II while
+            keeping the other isomers and stereochemical variants in Schedule I.
+   WHO’s proposal to transfer dronabinol to Schedule II was rejected by
+   the CND at its eleventh special session in 1990.
+■■ At its twenty-seventh meeting in 1990, the ECDD carried out a critical
+   review of updated information on Δ9-THC. It recommended that
+   Δ9-THC and stereochemical variants be rescheduled from Schedule
+   I to Schedule II of the 1971 Convention. This was done to avoid a
+   distinction between Δ9-THC and its stereochemical variants leading
+   to their placement under different schedules and to prevent potential
+   legal and forensic analytical problems. This recommendation was
+   adopted by the CND at its thirty-fourth session in 1991.
+■■ At the thirty-third ECDD meeting in 2002, Δ9-THC was again
+   critically reviewed. The Committee recommended that dronabinol
+   and its stereochemical variants be rescheduled from Schedule II to
+   Schedule IV of the 1971 Convention. However, no further procedural
+   steps were taken, i.e. there was no formal communication of this
+   recommendation from WHO to the CND.
+■■ At its thirty-fourth meeting in 2006, the ECDD carried out an
+   assessment of an updated critical review report on dronabinol.
+   The Committee concluded that although dronabinol constitutes
+   a substantial risk to public health, this risk is different from those
+   related to cannabis – controlled under the 1961 Convention. The
+   substance was found to have moderate therapeutic usefulness, with
+   a likelihood of an increase in its medical use in light of continuing
+   clinical research. Therefore, the Committee recommended that
+   dronabinol and its stereochemical variants be rescheduled from
+   Schedule II to Schedule III of the 1971 Convention.
+■■ In March 2007, at its fiftieth session, the CND decided by consensus
+   not to vote on the recommendation of the WHO ECDD to transfer
+   dronabinol and its stereochemical variants from Schedule II to
+   Schedule III of the 1971 Convention. Furthermore, the CND requested
+   WHO, in consultation with the INCB, as appropriate, to undertake,
+   for consideration by the Commission, a review of dronabinol and
+   its stereochemical variants when additional information became
+   available (CND Decision 50/2).
+■■ At its thirty-fifth meeting in 2012, the ECDD discussed the CND’s
+   recommendations of 2007. The Committee did not carry out a
+   review of dronabinol, but reinstated the recommendation made at
+   the thirty-fourth meeting of the ECDD to move dronabinol and
+   its stereochemical variants from Schedule II to Schedule III of the
+   1971 Convention. The Committee decided that the previous ECDD
+   decision on dronabinol and its stereochemical variants should stand,
+   since it was unaware of any new evidence that was likely to materially
+   alter the scheduling recommendation made at its thirty-fourth
+   meeting. This recommendation was communicated by the Director-
+   General of WHO to the Secretary-General in October 2012.
+■■ The CND reconsidered this issue in March 2013 at its fifty-sixth
+   session. Concern was expressed by several delegations that, despite
+   the recommendation received from WHO, no decision had yet
+   been taken by the Commission to reschedule dronabinol and its
+   stereochemical variants. A number of delegations noted that they
+   were not able to support the recommendation made by WHO
+   regarding dronabinol, as that recommendation could hinder efforts
+   to prevent international cannabis abuse and could send a confusing
+   message regarding the harm associated with the use of cannabis. It
+   was suggested that WHO should continue to review dronabinol.
+■■ In March 2014, based on the recommendation made by the ECDD
+   at its thirty-fifth meeting in 2012, the CND voted against moving
+   dronabinol and its stereochemical variants from Schedule II to
+   Schedule III of the 1971 Convention.
+■■ At its thirty-eighth meeting in 2016 the ECDD requested that
+   Δ9-tetrahydrocannabinol (Δ9-THC) be pre-reviewed along with
+   cannabis and cannabis resin, extracts and tinctures of cannabis,
+   cannabidiol (CBD) and isomers of THC.
+■■ At its fortieth meeting in June 2018, the ECDD evaluated the
+   above-mentioned pre-reviews and recommended to proceed to the
+   critical reviews of cannabis and cannabis resin, extracts and tinctures
+   of cannabis, Δ9-THC and isomers of THC at the forty-first meeting
+   in November 2018.
+
+Recommendation
+Δ9-tetrahydrocannabinol (Δ9-THC ) refers to four stereoisomers of Δ9-THC. One
+of these stereoisomers is found in the cannabis plant and is also known by the
+INN dronabinol; it has recognized therapeutic uses.
+        Chronic administration of Δ9-THC can induce physical dependence in
+laboratory animals and in humans. This has been demonstrated by the presence
+of withdrawal effects in animals and human subjects. The subjective effects of
+Δ9-THC when administered orally resemble those of cannabis. However, there is
+little evidence that oral Δ9-THC is used for non-medical purposes so as to cause
+a public health problem.
+       Δ9-THC (dronabinol) has approval in a number of countries for therapeutic
+indications including anorexia associated with weight loss in patients with AIDS
+and for nausea and vomiting associated with cancer chemotherapy. Δ9-THC
+(dronabinol) is routinely administered orally.
+       Δ9-THC and its stereoisomers are listed in Schedule II of the Convention
+on Psychotropic Substances of 1971. In previous ECDD reviews, Δ9-THC, and
+especially dronabinol, had been considered in a synthetic form as a pharmaceutical
+preparation.
+       However, the Committee recognized that Δ9-THC, in particular, its
+active and naturally occurring stereoisomer, dronabinol, today also refers to the
+main psychoactive component of cannabis and cannabis-derived psychoactive
+products. In this form, dronabinol produces similar ill-effects, dependence and
+abuse potential to cannabis, which is placed under the 1961 Single Convention.
+A substance liable to similar abuse and productive of similar ill-effects to those
+of a substance already scheduled within the 1961 Convention would normally be
+scheduled in the same way as that substance.
+       The Committee concluded that there is sufficient information to
+recommend a critical review of Δ9-THC at a future ECDD meeting in order to
+address the appropriateness of its placement within the Conventions.
+
+10.1.1 Tetrahydrocannabinol (Isomers of THC)
+Substance identification
+The isomers of THC include six molecules that are identified in Schedule I of the
+Convention on Psychotropic Substances of 1971 including their stereochemical
+variants.
+
+Chemistry
+Methods have been developed for synthesis of these isomers.
+
+Ease of convertibility into controlled substances
+It is possible to convert (−)-trans-Δ8-THC into (−)-trans-Δ9-THC in laboratory
+facilities.
+
+General pharmacology
+Δ8-THC and Δ9(11)-THC each produce Δ9-THC-like pharmacological effects in
+some animal models, whereas Δ10-THC does not. In humans, Δ8-THC is active
+when administered via several different routes, for example, oral, intravenous
+and inhalation. One stereoisomer of Δ6a,10a-THC ((S)-(−)- Δ6a,10a-THC) has
+psychoactive effects in humans similar to those of Δ9-THC but is quantitatively
+less potent (1:3 to 1:6), while the (R)-(+)-Δ6a,10a-THC, a second stereoisomer was
+inactive. Δ6a(10a)-THC also produces Δ9-THC-like effects when smoked, but the
+effects are less marked and have a shorter duration than those of Δ9 THC. None
+of the other isomers have been tested in humans.
+
+Toxicology
+Very little information exists on the toxicology of these isomers. There are limited
+preclinical toxicity data, and the isomers have not been administered to humans
+for extended periods. Limited toxicology data are available only for Δ8-THC,
+Δ6a,10a-THC and Δ9 (11)-THC.
+        The oral median lethal dose (LD50) of Δ8-THC in rats is 2000 mg/kg.
+Subcutaneous administration of Δ8-THC (up to 40 mg/kg) in rats prior to
+conception or during gestation did not have teratogenic effects. From the limited
+data available, Δ8-THC does not appear to be mutagenic.
+        In mice, intravenous administration of 200 mg/kg Δ6a,10a-THC did not
+promote mortality. Δ6a,10a-THC does not reduce locomotor activity in mice.
+        When administered to humans via smoking, Δ6a,10a-THC has much
+lower psychoactivity than Δ9-THC. The effects of smoking 15 mg Δ6a,10a-THC
+are less marked and have a shorter duration than a 12-mg dose of Δ9-THC.
+Δ6a,10a THC produced symptoms of light-headedness, numbness and tingling
+in the extremities and face, fatigue, cold perspiration, drowsiness and a feeling
+of relaxation. Impairment of thinking and the perception of time were less
+pronounced than with Δ9-THC.
+        Δ9 (11)-THC has an intravenous LD50 of 93 mg/kg in mice, which is double
+that found for Δ9-THC.
+
+Adverse reactions in humans
+Only Δ8-THC and Δ6a,10a-THC have been tested in humans. The acute
+intoxicating effects of these molecules are similar in quality but less potent than
+acute doses of Δ9-THC. These molecules are not available for medical or non-
+medical purposes, so little is known about their adverse effects in humans.
+
+Dependence potential
+No reports are available of studies that have assessed the potential of THC isomers
+for inducing physical dependence in laboratory animals or humans
+
+Abuse potential
+Data on the specific abuse potential of the six isomers are sparse. Of the six THC
+isomers reviewed here, preclinical assessment of abuse liability of three isomers
+has been evaluated for their pharmacological similarity to Δ9-THC, particularly
+in discrimination tests for substitution of the Δ9-THC discriminative stimulus.
+Δ9(11)-THC demonstrated the cannabimimetic tetrad of characteristic Δ9-THC-like
+effects, including suppression of locomotor activity, hypothermia, antinociception
+and ring immobility in animal studies, and was found to be several-fold less potent
+than Δ9-THC for each dependent measure. It has also been shown to produce
+Δ9-THC-like discriminative effects but at lower potency than Δ9-THC.                     43
+       Δ8-THC also produces Δ9-THC-like discriminative effects but at lower
+potency, and induces the characteristic tetrad of Δ9-THC-like effects as described
+in the paragraph above.
+       Δ10-THC, the third isomer that has been tested, did not produce Δ9-THC-
+like discriminative effects.
+       Few studies addressing the abuse potential of THC isomers have been
+undertaken in humans. The information on abuse potential of THC isomers
+is based primarily on early observational studies in which their subjective or
+physiological effects in human volunteers were compared to those reported
+following Δ9-THC administration. Of the six THC isomers reviewed here, only
+Δ8-THC and Δ6a,10a-THC have been tested in humans. The acute intoxicating
+effects of these substances are similar to those of Δ9-THC, but they are less potent.
+
+Therapeutic applications, extent of therapeutic use and
+     epidemiology of medical use
+No medical or veterinarian use of these isomers has been reported.
+
+Listing in the WHO Model List of Essential Medicines
+None of the isomers is listed in the WHO EML (20th list) or the WHO Model List
+of Essential Medicines for Children (6th list).
+
+Marketing authorizations (as a medicinal product)
+There are no known marketing authorizations for these isomers.
+
+Industrial use
+These isomers have no known legitimate industrial use.
+
+Non-medical use, abuse and dependence
+No case reports of abuse or dependence relating to the use of these isomers were
+available. Between 1995 and 2014, one study reported a change in the potency of
+seized cannabis products in the USA. The data showed that before 2009, Δ8-THC
+had not been detected in cannabis seizures in the USA. A gradual increase in Δ8-
+THC content was observed from 0.01% to 0.07% in 2014. However, compared to
+Δ9-THC, Δ8-THC content was lower by a factor of 10, and increasing potency of
+Δ8-THC did not appear to impact Δ9-THC concentrations.
+
+Nature and magnitude of public health problems related to
+      misuse, abuse and dependence
+These isomers appear not to have been available for use. At present no public health
+problems (for example, driving under the influence of drugs or comorbidities)
+have been associated with their use.
+
+Licit production, consumption and international trade
+There is no known licit production of these isomers.
+
+Illicit manufacture and traffic and related information
+There appears to be no illicit manufacture or traffic of these isomers.
+
+Current international controls and their impact
+These isomers are included in Schedule I of the Convention on Psychotropic
+Substances of 1971.
+
+Current and past national controls
+The extent to which the isomers of THC, other than Δ9-THC, are controlled
+depends on the exact wording of the legislation in each jurisdiction.
+
+WHO review history
+The isomers of Δ9-THC have never been subject to a critical review or pre-review
+by the ECDD.
+
+Recommendation
+There are currently six isomers of THC listed in Schedule I of the 1971 Convention.
+Of the six THC isomers reviewed here, the abuse potential of only two, Δ8-THC
+and Δ6a,10a-THC, have been evaluated in a few human studies. These studies found
+that the acute intoxicating effects of these substances are similar to those of Δ9-
+THC, but they are less potent.
+        There are no reports that THC isomers induce physical dependence. There
+are no reported medical or veterinary uses of these isomers.
+        There is no evidence that any of these listed isomers are being abused or are
+likely to be abused so as to constitute a public health or social problem. However,
+the Committee noted the potential difficulty of differentiating these six isomers
+(listed in Schedule 1 of the 1971 Convention) from Δ9-THC (listed in Schedule II
+of the 1971 Convention) using standard methods of chemical analysis owing to
+their chemical similarities. The Committee further noted that this is an important
+factor to consider in the scheduling of these isomers.
+       The Committee concluded that there is sufficient information to
+recommend a critical review of the isomers of THC at a future ECDD meeting
+and to explore further the relevance of their current scheduling within the 1971
+Convention.
