@@ -6,12 +6,11 @@ info from the excel with the list of substances.
 """
 
 # Valid for the spreadsheet:
-# ECDD1950_Substances considered (2023_01_23 TLR).xlsx
-# (Others may have a different format and the program would need
-# tweaking.
+#   ECDD1950_Substances considered (2023_02_15 TLR).xlsx
+# (Others may have a different format and the program would need tweaking.)
 
-# To use with the "Substance record importer" feed at
-# https://ecddrepository.org/en/admin/content/feed
+# To use with the "Substance record importer" feed at:
+#   https://ecddrepository.org/en/admin/content/feed
 
 import sys
 import os
@@ -23,7 +22,7 @@ from drugs_in_trs import drugs_in_trs
 Record = namedtuple('Record', [
     'alternative_names', 'sessions', 'years', 'assessments', 'dclass',
     'effect', 'recom_ECDD', 'scheduling', 'link_report', 'link_questio',
-    'trs_extract', 'trs', 'link_reviews'])
+    'link_questio_al', 'trs_extract', 'trs', 'link_reviews'])
 
 
 
@@ -52,6 +51,7 @@ def write_csv(fname, substances):
         'field_current_scheduling_status',
         'field_technical_information_most',
         'field_ms_questionnaire_report',
+        'field_ms_questionnaire_report_al',
         'field_recommendation_from_trs_',
         'field_link_to_full_trs']
 
@@ -113,6 +113,19 @@ def to_csv(name, record):
 
     r = record  # shortcut
 
+    # The column O "Member State Questionnaire Location if not direct
+    # link" is a bit tricky: we want it with the text that is has, and
+    # a link to the questionnaire. Or empty if there is no text.
+    questio_html = ('<a href="' + add_path(r.link_report) + '">' +
+                    r.link_questio_al + '</a>') if r.link_questio_al else ''
+
+    # For this to work, the fields have to be of this type:
+    #   field_ms_questionnaire_report     -->  File
+    #   field_ms_questionnaire_report_al  -->  Text (formatted)
+    #
+    # They can be checked and changed in:
+    # https://ecddrepository.org/en/admin/structure/types/manage/substance_record/fields
+
     fields = [
         name,  # for "title"
         name,  # for "field_drug_name" (yes, repeated)
@@ -122,9 +135,10 @@ def to_csv(name, record):
         r.dclass,
         r.effect,
         r.recom_ECDD,
-        r.scheduling,
+        f'<a href="{r.scheduling[1]}">{r.scheduling[0]}</a>',
         add_path(r.link_report),
         add_path(r.link_questio),
+        questio_html,
         r.trs_extract or get_recommendation(name, r.trs),
         add_path(trs_fname.get(r.trs, ''))]
 
@@ -231,7 +245,7 @@ def get_info(row):
     def link(c):
         assert c.isupper()
         hl = row[get_index(c)].hyperlink
-        return get_fname(hl.target) if hl else ''
+        return hl.target if hl else ''
 
     # Each letter contains the value at that column.
     A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W = \
@@ -251,10 +265,11 @@ def get_info(row):
         dclass=F.lower(),
         effect=E,
         recom_ECDD=K,
-        scheduling=L,
-        link_report=link('M'),
-        link_questio=link('N'),
-        link_reviews=[link(c) for c in
+        scheduling=(L, link('L')),
+        link_report=get_fname(link('M')),
+        link_questio=get_fname(link('N')),
+        link_questio_al=O,
+        link_reviews=[get_fname(link(c)) for c in
                       ['X', 'Y', 'Z', 'AA', 'AB', 'AC', 'AD', 'AE'] if link(c)],
         trs_extract=extract_sections([P, Q, R, S, T, U, V, W]),
         trs=trs)
