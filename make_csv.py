@@ -65,6 +65,11 @@ def to_csv(name, record):
     "Return a csv line with all the information of the substance"
 
     def add_path(txt):
+        # Ejemplo de chapuza por cuando el fichero esta en 2023-04/ o
+        # asi, y no podemos acceder por ssh para arreglarlo.
+        if txt.endswith('9789240068735-eng.pdf'):
+            return 'https://ecddrepository.org/sites/default/files/2023-04/9789240068735-eng.pdf'
+
         path = 'https://ecddrepository.org/sites/default/files/'
         return (path + txt.lower()) if txt else ''
 
