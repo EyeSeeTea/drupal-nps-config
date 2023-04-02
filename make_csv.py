@@ -120,6 +120,9 @@ def to_csv(name, record):
     questio_html = ('<a href="' + add_path(r.link_report) + '">' +
                     r.link_questio_al + '</a>') if r.link_questio_al else ''
 
+    scheduling_html = (f'<a href="{r.scheduling[1]}">{r.scheduling[0]}</a>'
+                       if r.scheduling[1].strip() else r.scheduling[0])
+
     # For this to work, the fields have to be of this type:
     #   field_ms_questionnaire_report     -->  File
     #   field_ms_questionnaire_report_al  -->  Text (formatted)
@@ -136,7 +139,7 @@ def to_csv(name, record):
         r.dclass,
         r.effect,
         r.recom_ECDD,
-        f'<a href="{r.scheduling[1]}">{r.scheduling[0]}</a>',
+        scheduling_html,
         add_path(r.link_report),
         add_path(r.link_questio),
         questio_html,
